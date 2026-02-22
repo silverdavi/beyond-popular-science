@@ -1,0 +1,579 @@
+==========================================================================================
+QUOTE INVENTORY — all double-quote instances in chapter main.tex files
+==========================================================================================
+
+Legend:
+  CURLY   = Unicode left/right double quotation marks (U+201C / U+201D)
+  STRAIGHT = ASCII straight double quote (U+0022)
+  TARGET  = Replace with \QENOpen{} / \QENClose{}
+
+------------------------------------------------------------------------------------------
+
+FILE: 01_GoldRelativity/main.tex
+
+  L 144 [CURLY x4]
+        ...e theories that are applicable when one “zooms out.” For example, at low velocities, the Galilean formulation suffices without rela...
+  L 146 [CURLY x2]
+        ...ry, simplistic atomic models (electrons “orbiting” a nucleus) are adequate for most applications. \textbf{This is why it is remar...
+  --- Totals: 0 straight, 6 curly
+
+FILE: 02_AcceleratingUniverse/main.tex
+
+  L  37 [CURLY x2]
+        “Dark energy” drives cosmic acceleration with behavior distinct from matter or radiation — i...
+  L  51 [CURLY x2]
+        ...iscrepancy so severe it has been called “the worst theoretical prediction in the history of physics.”
+  L  93 [CURLY x2]
+        “Extraction protocol, immediate,” Rafe commanded, his voice carrying the authority of those who were never disobeyed.
+  L  97 [CURLY x2]
+        ...e between locally and globally defined: “Commander, your vessel maintains structural integrity only because spacetime agrees to be continuous. Remove the boundary condition, and agreement becomes... negotiable.”
+  --- Totals: 0 straight, 8 curly
+
+FILE: 03_BanachTarskiParadox/main.tex
+
+  L   7 [CURLY x2]
+        ...ers inside set theory. Think of sets as “bags” that can hold distinct objects: duplicates vanish, so $\{\text{dog},\text{dog}...
+  L  18 [CURLY x2]
+        ...a left and a right shoe. A rule such as “choose the right shoe” provides a well-defined selection and does not require the Axiom of Choice. Bu...
+  L  22 [CURLY x2]
+        How do we assign “size” to things? In everyday life, it's intuitive — a room's area is its length time...
+  L  48 [CURLY x2]
+        ...ords, the entire sphere is recovered by “shuffling” the representatives through all possible rotation sequences.
+  L  77 [CURLY x4]
+        ...orems across mathematics depend on it — “every vector space has a basis” and “the product of compact spaces is compact” are each equivalent to acceptin...
+  --- Totals: 0 straight, 12 curly
+
+FILE: 05_CircleWheel/main.tex
+
+  L  13 [CURLY x2]
+        ... PIE root \piefont{*dʰugh₂tḗr}, meaning “daughter,” provides one of the clearest examples of stability across Indo-European langua...
+  L  15 [CURLY x6]
+        ...from an entirely different root meaning “suckling” (related to \emph{filius} for “son”). In Gothic, the reflex is \emph{dauhtar},...
+  L  19 [CURLY x4]
+        ...e PIE root \piefont{*kʷékʷlos}, meaning “wheel” or “circle,” illustrates how this root produced enduring derivatives across In...
+  L  21 [CURLY x8]
+        ...\emph{kyklos}) retained the meanings of “circle” and “wheel,” later influencing Latin \emph{cyclus} and English “cycle.” Sanskr...
+  L  23 [CURLY x16]
+        ...ecurrence. Latin \emph{colere}, meaning “to cultivate” or “to tend,” may derive from \piefont{*kʷel-} (“to turn”) — though this etymo...
+  L  25 [CURLY x10]
+        ...xthebrew{גלגל} (\emph{galgal}), meaning “wheel” or “rolling object,” derives from the root \emph{g-l-l}, which denotes circula...
+  L  29 [CURLY x2]
+        ...cludes false cognates. Consider English “day” and Latin \emph{dies} — both refer to a 24-hour period and share similar sound...
+  L  31 [CURLY x16]
+        English “day” traces back through Old English \emph{dæg} to PIE \piefont{*dʰegʷʰ-}, meaning ...
+  L  33 [CURLY x2]
+        ...pondences across word families. English “day” follows Germanic sound laws: PIE \piefont{*dʰ} regularly becomes \emph{d} in E...
+  L  37 [CURLY x18]
+        Another case involves English “much” and Spanish “mucho” — words that are nearly identical in sound and meaning yet...
+  L  42 [CURLY x6]
+        ... expression denotes endless repetition, “again and again” or “in a cycle,” yet the word \texthebrew{חלילה} (\emph{chalilah}) also means ...
+  L  44 [CURLY x6]
+        ... it to \texthebrew{חלל} (\emph{chalal}, “void”), implying unboundedness. Another derived it from \texthebrew{חול} (\emph{chol...
+  L  46 [CURLY x4]
+        ...), \textsanskrit{चक्र} (\emph{chakra}), “cycle,” and “wheel.” I remembered that call. Across language families, words for turni...
+  L  48 [CURLY x2]
+        ...eek \textgreek{ροίζος} (\emph{rhoizos}, “whirring noise”) and other motion-related terms. Reduplication strengthens the perception of r...
+  L  58 [CURLY x2]
+        ...on of the PIE root \piefont{*kʷékʷlos} (“wheel, circle”) across major language branches. The diagram illustrates systematic phonologic...
+  --- Totals: 0 straight, 104 curly
+
+FILE: 06_GravityTimeDilation/main.tex
+
+  L  24 [CURLY x2]
+        ...er time experienced along the path. The “force” we attribute to gravity is actually the spatial projection of motion along the...
+  --- Totals: 0 straight, 2 curly
+
+FILE: 07_BilliardsConicsPorism/main.tex
+
+  L  40 [CURLY x2]
+        ...ll-Ordering Theorem as follows: \textbf{“The Axiom of Choice is obviously true, the Well-Ordering Theorem is obviously false, and Zorn's Lemma — who can tell?”} These statements are mathematically equivalent, yet their perceived plausibil...
+  L  46 [CURLY x2]
+        ...ic measure on the ellipse — a notion of “size” for subsets that remains unchanged under iteration. This measure is not unifor...
+  L  50 [CURLY x2]
+        ...ogically conjugate to a rigid rotation. “Conjugate” here means there exists a homeomorphism $\varphi$ of the circle such that $\va...
+  --- Totals: 0 straight, 6 curly
+
+FILE: 09_ArrowTheoremTopology/main.tex
+
+  L  15 [CURLY x2]
+        ... parliamentary constituencies, use this “first-past-the-post” system. U.S. presidential electors are chosen by state-level plurality in most...
+  L  46 [CURLY x2]
+        ...blem models the moment when each one is “lonely,” meaning far enough from all others to be considered isolated.
+  L  54 [STRAIGHT x2]
+        ... for each prime $p$, to showing that no "bad" covering exists — a problem close to set cover, which is close to SAT. I r...
+  --- Totals: 2 straight, 4 curly
+
+FILE: 11_TopologicalInsulators/main.tex
+
+  L  35 [CURLY x2]
+        ...north pole keeping your vector pointing “straight ahead,” then return to your starting point via a different meridian. Your vector now p...
+  L  37 [CURLY x2]
+        ...zation of quantum states — how they are “glued together” across momentum space. Two materials may share identical band energies yet dif...
+  --- Totals: 0 straight, 4 curly
+
+FILE: 12_GSMEncryptionOrder/main.tex
+
+  L  47 [CURLY x4]
+        ...the protocol — and that the analysis of “where” in a system encryption occurs mattered as much as “how.”
+  --- Totals: 0 straight, 4 curly
+
+FILE: 13_PoissonsSpot/main.tex
+
+  L  83 [CURLY x2]
+        ...ticle-like behavior in others. The term “duality” was used as a placeholder for the absence of a single consistent description. ...
+  L  95 [CURLY x4]
+        This rejection of the notion of light's “dual-nature” is important. In economics, Okun's Law relates changes in unemployment to devi...
+  --- Totals: 0 straight, 6 curly
+
+FILE: 14_CompactTwinParadox/main.tex
+
+  L  11 [CURLY x2]
+        ...h distant events on Earth are happening “now.” The shift occurs abruptly in the traveler's coordinate system, producing a dis...
+  L  31 [CURLY x4]
+        ...ble galaxies would appear both in their “true” location and as “ghost images” from light that circled the universe multiple t...
+  L  58 [CURLY x2]
+        ...tach it. Maintain contact with the same “side” of the strip (though, by construction, there is only one). After completing a ...
+  --- Totals: 0 straight, 8 curly
+
+FILE: 15_EnvelopeParadox/main.tex
+
+  L  31 [CURLY x4]
+        ...al triangle? The answer depends on what “random” means. Select two random points on the circumference and connect them: the pro...
+  L  33 [CURLY x4]
+        ...ut specifying the generation mechanism, “random envelope” has no unique meaning, and the “principle of indifference” — treating outcomes...
+  L  54 [CURLY x2]
+        ...tirely. We could not even agree on what “inconsistent” means. Uncomfortable as it feels, one must recognize that at the bottom of all...
+  L  58 [CURLY x4]
+        The “Inverted Gods” objection does not refute Pascal's logic. It demonstrates his system requires ...
+  --- Totals: 0 straight, 14 curly
+
+FILE: 16_FalseVacuumThreat/main.tex
+
+  L   7 [CURLY x2]
+        ... These fields exist everywhere, even in “empty” space. What we call particles are localized excitations, like waves on an ocea...
+  L  23 [CURLY x2]
+        This creates a “Mexican hat” shape: high at the center, dropping to a circular valley at radius $v \approx ...
+  --- Totals: 0 straight, 4 curly
+
+FILE: 17_BigNumbers/main.tex
+
+  L   2 [CURLY x2]
+        ...could be handled by grouping units into “orders” and assigning names to powers of powers. This marked one of the first recorded...
+  L   6 [CURLY x2]
+        ...ientific notation makes this tractable: “1 followed by 80 zeros.” But even this notation meets its limits.
+  L  18 [CURLY x4]
+        ...mbol must be precisely defined. Writing “$10^{10}$” beats “$10000000000$” — notation outpaces digits. With Knuth's arrows, $3 \upa...
+  L  28 [CURLY x2]
+        .... A well-chosen function reference like “$A(A(10,10),A(10,10))$” beats unfathomable explicit digits. The best use of ink is no longer to write ...
+  L  43 [CURLY x2]
+        ...mber. There exists a definite answer to “What is the 97th digit of TREE(3)?” We simply cannot compute it. Enter functions that grow even faster through dif...
+  L  51 [CURLY x4]
+        ...stic and logic territory. At MIT's 2007 “Big Number Duel,” philosopher Agustín Rayo proposed the ultimate strategy — define Rayo(n) as th...
+  L  58 [CURLY x4]
+        ...ns in well-ordered sequences). Think of “three” (counting objects) versus “third” (position in line). The smallest infinite ca...
+  L  67 [CURLY x2]
+        ... $\varepsilon_{\varepsilon_0}$ uses our “massive” infinity as a mere index.
+  --- Totals: 0 straight, 22 curly
+
+FILE: 18_SpeculativeExecutionAttacks/main.tex
+
+  L   1 [CURLY x6]
+        ...recipe where each step must be precise: “take flour from cabinet,” “add to bowl,” “mix ingredients.” These instructions manipulate data stored in...
+  L   5 [CURLY x2]
+        ...ion is being decoded (figuring out what “add” means), another is being executed (actually adding numbers), and a third is be...
+  L  15 [CURLY x2]
+        ... triggers an exception — Meltdown never “officially” reads the secret. But in the microseconds between the speculative read and the...
+  L  41 [CURLY x2]
+        ...D processors aren't immune — it creates “phantom speculation” by nesting mispredictions within mispredictions. GhostRace (2024) weaponized s...
+  L  46 [CURLY x2]
+        ...SpeculativeExecutionAttacks/Oracle.png}{“Don’t quote me, but the oracle at Delphi told me she’s using ChatGPT.”}
+  --- Totals: 0 straight, 14 curly
+
+FILE: 19_CosmicRayMuons/main.tex
+
+  L  56 [CURLY x2]
+        ...erfluous — physicist Isidor Rabi's quip “Who ordered that?” captured the bewilderment. It plays no obvious role in atomic structure or nuc...
+  --- Totals: 0 straight, 2 curly
+
+FILE: 20_ChineseRoomArgument/main.tex
+
+  L   7 [CURLY x2]
+        ...xperiment — it challenges the claims of “strong AI,” the position that appropriately programmed computers possess minds like humans...
+  L  15 [CURLY x6]
+        ... all possible next words. For the input “The capital of France is,” the model learns P(“Paris”) = 0.85, P(“located”) = 0.03, and so forth.
+  L  17 [CURLY x2]
+        ...is self-supervised. No human labels the “correct” next word because the next word serves as the target. The model minimizes cros...
+  L  19 [CURLY x6]
+        ...s dismiss the resulting capabilities as “mere probabilistic parroting”: statistical correlation without genuine understanding. This characterization ...
+  L  21 [CURLY x4]
+        ....5, despite probably never encountering “cyan” and “purple” in mathematical contexts during training. The model abstracts the...
+  L  23 [CURLY x2]
+        ...ther than memorization. To predict that “The ball rolled down the hill and splashed into the pond,” the model must develop representations of physics, not just word associations.
+  L  27 [CURLY x4]
+        ...than follow instructions. A model asked “What is your first name?” might respond “What is your last name?,” not from understanding but because su...
+  L  33 [CURLY x2]
+        ...ire new competencies dynamically. Their “rules” are not rigid instructions but flexible algorithms that respond to novel conte...
+  L  37 [STRAIGHT x4]
+        Defining "genuine" versus "simulated" understanding proves notoriously difficult, yet we ...
+  L  53 [CURLY x2]
+        ... training data, they don't respond with “I don't know.” They generate confident-sounding responses that preserve conversational flow, ...
+  L  57 [CURLY x2]
+        ...ore unnerving question is whether human “understanding” is itself merely symbol filtering that prioritizes narrative coherence over ex...
+  --- Totals: 4 straight, 32 curly
+
+FILE: 21_ExponentialMapsLieTheory/main.tex
+
+  L  10 [CURLY x2]
+        ...eas of mathematics, that are all called “the exponential map.” These are not merely notational coincidences. In each case, the map expresses ...
+  L 101 [CURLY x2]
+        ...quality — remain, even as the notion of “straightness” or embedding in $\mathbb{R}^n$ disappears. In further contexts, such as intrin...
+  L 103 [CURLY x4]
+        ...g the role of dimension as a measure of “degrees of freedom” in a space even without linear structure. Hausdorff dimension: adapts to fract...
+  L 123 [CURLY x2]
+        ...a space of functions $B^A$ can be fully “named” by elements of $A$, then every transformation $g: B \to B$ must have a fixed p...
+  L 128 [CURLY x2]
+        ...mathcal{P}(A) \cong \{0, 1\}^A$, as the “diagonal” element is always missed.
+  --- Totals: 0 straight, 12 curly
+
+FILE: 22_MinecraftCreeper/main.tex
+
+  L  11 [CURLY x4]
+        ... 0, dz: 0\}}, \texttt{Sprite \{texture: “goblin.png”\}}, \texttt{Health \{current: 30, max: 30\}}, \texttt{AI \{behavior: “aggressi...
+  L  33 [CURLY x2]
+        ...n before it could slow the player. This “skiing” technique allowed tremendous speed, changing combat speed. Dynamix kept it, de...
+  L  39 [CURLY x2]
+        ...age{0.55}{22_MinecraftCreeper/DICE.png}{“Your resume is... interesting. It mentions 'extensive experience in probability determination'?”}
+  --- Totals: 0 straight, 8 curly
+
+FILE: 23_BlackHoleTimeDilationRedshift/main.tex
+
+  L  17 [CURLY x4]
+        ... place to a moment. The question is not “where is the singularity?” to “when will I reach it?” The answer: finite proper time ahead, as inevitable...
+  L  19 [CURLY x2]
+        ...sic incompleteness — what is meant by a “singularity” in this context — lies in the future of every worldline that crosses the event...
+  L  27 [CURLY x2]
+        \begin{commentary}[Kerr's Quora Posts: “Stop Believing Everything You Read About Black Holes”]
+  L  28 [CURLY x2]
+        ...ile returning to reclaim his territory. “Stop believing everything you read about black holes,” he declares, targeting not just popular misconceptions but the physics communi...
+  L  30 [CURLY x6]
+        ...finite affine length — they simply end. “Now, what if the central star is singular?” Kerr asks pointedly. “Then one is assuming it is singular and there is nothing...
+  L  32 [CURLY x2]
+        ... the opposite side. These are Penrose's “mysterious light rays of finite affine length.” They die not because they hit an infinitely curved singularity, but because th...
+  L  34 [CURLY x2]
+        ... bypass peer review and speak directly: “The trouble with the Penrose paper is that it is a 'do it yourself' paper where he states propositions without proving them. This is very typical in relativity... conjectures 'rule the roost.'” These are not the measured tones of academic discourse but the exasperated wor...
+  L  36 [CURLY x6]
+        ...lies this entire chapter. Asked whether “time and space exchange roles at the event horizon,” his response is unequivocal: “Of course this is not true.” The coordinate swap...
+  L  38 [CURLY x4]
+        ...child coordinates, which Kerr considers “good,” the t-coordinate remains a proper time parameter along all worldlines, never b...
+  L  40 [CURLY x2]
+        ...native is equally radical. He describes “spin forces” that become so intense near the event horizon that infalling objects are force...
+  --- Totals: 0 straight, 32 curly
+
+FILE: 24_FourDSpacetime/main.tex
+
+  L  13 [STRAIGHT x2]
+        ...earize the wave operator — to extract a "square root" of the d'Alembertian $\square = \partial_t^2 - c^2\nabla^2$. Just ...
+  L  19 [CURLY x2]
+        ...opic} (minute 19:30 in the video titled “What is a Manifold? - Mikhail Gromov”) where Gromov traces the exceptional nature of four dimensions to the arithmet...
+  L  35 [STRAIGHT x2]
+        \begin{commentary}[Why Four Might Be "Special"]
+  L  36 [STRAIGHT x2]
+        ...ve about whether other dimensionalities "exist" in some broader sense. Third, the entire exercise may be backfitting log...
+  --- Totals: 6 straight, 2 curly
+
+FILE: 25_FireflyBioluminescence/main.tex
+
+  L  29 [CURLY x2]
+        ...proceeds near ambient temperature. This “cold light” property results from direct chemical-to-photon energy conversion.
+  L  50 [CURLY x2]
+        ...z (1924) figure — widely paraphrased as “1/40 candlepower” — which, when converted through modern photometric standards, implies $\sim 3 ...
+  L  52 [CURLY x2]
+        ...inus pyralis} flash and emphasized that “The flash terminates when O$_2$ is consumed,” and Lynn Faust, author of \textit{Fireflies, Glow-worms, and Lightning Bugs}, ...
+  L  54 [CURLY x2]
+        ...$10^{11}$ photons per flash. The famous “1/40 candle” number survives mainly as a unit-conversion ghost: a visually matched, directi...
+  L  58 [CURLY x2]
+        \inlineimage{0.35}{25_FireflyBioluminescence/fireflies.png}{“I'm sorry, but I don't speak red.”}
+  --- Totals: 0 straight, 10 curly
+
+FILE: 26_JewishCalendar/main.tex
+
+  L  13 [CURLY x2]
+        ...ny, which Rabbi Dosa ben Hurkinos said: “How can they testify that a woman gave birth, and the next day her belly is between her teeth (still pregnant)?”. Rabbi Yehoshua and Rabbi Dosa ben Hurkinos declared them false witnesses.
+  L  19 [CURLY x2]
+        ...red Rabbi Yehoshua to appear before him “with your staff and your wallet” on the day Rabbi Yehoshua calculated as Yom Kippur. Carrying objects violates ...
+  L  21 [CURLY x2]
+        ...abbi Akiva explained to Rabbi Yehoshua: “Whatever Rabban Gamliel has done is valid, for it says, 'These are the appointed seasons of the Lord, holy convocations, which you shall proclaim in their appointed seasons.' Whether in their proper time or not in their proper time, I have no appointed seasons other than these.”
+  L  23 [CURLY x2]
+        Rabbi Dosa ben Hurkinos stated: “If we come to question the court of Rabban Gamliel, we must question every court that has arisen from the days of Moses until now.” Authority continuity took precedence over astronomical accuracy.
+  L  25 [CURLY x2]
+        ...amliel stood, kissed him, and declared: “Come in peace, my teacher and my student — my teacher in wisdom and my student because you accepted my words.”
+  L  29 [CURLY x2]
+        ...to fall. Each time the sages responded: “We do not derive law from trees, from streams, from walls.”
+  L  31 [CURLY x4]
+        Finally, Rabbi Eliezer demanded: “If the law is as I say, let it be proven from Heaven!” A divine voice proclaimed: “Why do you dispute with Rabbi Eliezer, seeing that...
+  L  33 [CURLY x2]
+        Rabbi Yehoshua rose and declared, citing the biblical verse, “It is not in heaven” (Deuteronomy 30:12).
+  L  35 [CURLY x2]
+        The Talmud reports God declaring: “My children have defeated Me, My children have defeated Me!” The law belongs to human authorities interpreting through human reason. God yi...
+  L  47 [CURLY x4]
+        ...where summer nights never fully darken. “During June and July,” he observed, “the night shines like day. At the very least, even at midnight, ...
+  L  49 [CURLY x2]
+        ...nities observed dawn prayers on Shavuot “immediately at dawn,” not at estimated times.
+  L  51 [CURLY x2]
+        ...e poles, more extreme conditions apply. “What about someone who comes in summer near the North Pole, where for several continuous months it is actual daytime? There the sun circles the full horizon from east to south to west to north. How should a Jew who arrives there — along with sailors who go there to hunt giant whales — determine his prayer times and Shabbat?”
+  L  53 [CURLY x2]
+        ...maintains the seven-day cycle even when “day” loses conventional meaning. But he acknowledged deeper problems: when people a...
+  L  55 [CURLY x2]
+        He concluded: “May the Holy One, Blessed Be He, enlighten our eyes with the light of His Torah.” This acknowledges the limits of applying Mediterranean-based law to less commo...
+  L  63 [CURLY x2]
+        ...ctice. The Chazon Ish telegrammed back: “Eat Wednesday, fast Thursday, fear nothing.” In Shanghai — west of his line — Shabbat was kept on Saturday with the establi...
+  L  67 [CURLY x2]
+        The principle “it is not in heaven” establishes that human authorities interpret law for practical circumstances. ...
+  L  84 [STRAIGHT x1]
+        ...stion further how can it fit the Haari Z"L comment that the total number of species is $72$?
+  --- Totals: 1 straight, 36 curly
+
+FILE: 28_NegativeTemp/main.tex
+
+  L  15 [CURLY x4]
+        ...rage kinetic energy. Bernoulli wrote of “increasing the intensity of motion” when heating gases but couldn't quantify the relationship. John Herapath (1820...
+  L  37 [CURLY x2]
+        Experiments measuring “negative temperature” actually measure something different. When Purcell and Pound achieved populati...
+  L  39 [CURLY x2]
+        ...erature to this state, suggesting it is “hotter than hot” — energy flows from it to any positive-temperature system. The Gibbs formalism...
+  L  43 [STRAIGHT x2]
+        ...ore the full range. What textbooks call "negative temperature" is better understood as negative $\beta$: a regime where ...
+  L  47 [CURLY x2]
+        ... temperature. Whether we accept systems “hotter than infinity” or reject such phrasing depends on which of temperature's definitions we prefe...
+  --- Totals: 2 straight, 10 curly
+
+FILE: 29_HatMonotile/main.tex
+
+  L   5 [CURLY x2]
+        ...nchanged. Repeated applications of this “vertex truncation” is part of the the common proof that $\chi$ is invariant under deformations (b...
+  L   7 [CURLY x4]
+        ... dodecahedron. Euler's formula converts “what perfect forms exist?” into “which integers satisfy $(p-2)(q-2) < 4$?”
+  L  25 [CURLY x4]
+        ... thousands to just two tiles led to the “ein Stein” problem: could a single tile enforce aperiodicity? For decades, every attempt ...
+  L  31 [CURLY x6]
+        ...ates a substitution tiling where larger “metatiles” decompose into smaller copies following strict rules. The proof required verif...
+  L  40 [CURLY x2]
+        ...odic tiles. Smith called the excitement “a bit surreal” — he'd been playing with shapes for years, cutting them out on cardstock, arra...
+  --- Totals: 0 straight, 18 curly
+
+FILE: 30_SimpsonsParadox/main.tex
+
+  L  72 [CURLY x2]
+        ...s gerrymandering's success by measuring “wasted” votes — those beyond the 50\%+1 needed to win a district. A party that wins di...
+  --- Totals: 0 straight, 2 curly
+
+FILE: 31_osmosis_Debye/main.tex
+
+  L   1 [CURLY x4]
+        ...semipermeable membrane from a region of “high water concentration” to one of “low water concentration.” The phrasing appears in educational conte...
+  L   9 [CURLY x2]
+        The concept of a “water concentration gradient” lacks meaning in a solvent composed entirely of water. There is no distinct di...
+  L  27 [CURLY x6]
+        ...ind water in hydration layers, reducing “free” water concentration. Water then diffuses down this concentration gradient. How...
+  --- Totals: 0 straight, 12 curly
+
+FILE: 32_AtomicClocks/main.tex
+
+  L  28 [CURLY x2]
+        ...thin standing-wave laser fields. At the “magic wavelength” (species-dependent), the differential AC Stark shift between clock states vani...
+  --- Totals: 0 straight, 2 curly
+
+FILE: 33_IncubationInequality/main.tex
+
+  L  27 [CURLY x2]
+        ...covariance matrix interaction. The term “correlation” here is geometric: it measures the extent to which the spatial configurations ...
+  L  33 [CURLY x2]
+        ...pposite direction: these shapes must be “fattest” at the center, they cannot be hollow or have their mass pushed outward. The co...
+  L  51 [CURLY x2]
+        ... discovery of the monotile known as the “hat,” Thomas Royen's proof of the Gaussian Correlation Inequality relied on known id...
+  L  55 [CURLY x2]
+        ...over 500 pages of novel theory he calls “inter-universal Teichmüller theory,”, has divided the mathematical community for over a decade. Leading number theo...
+  --- Totals: 0 straight, 8 curly
+
+FILE: 34_BoltzmannBrain/main.tex
+
+  L   3 [CURLY x2]
+        ... maximum entropy state often called the “heat death.” In this eternal vacuum, space maintains a tiny but non-zero temperature due to...
+  L  15 [CURLY x4]
+        ...nsient configuration. A Boltzmann Brain “discovering” evidence for dark energy is no more meaningful than one “discovering” evidence...
+  L  27 [CURLY x2]
+        ...ng Boltzmann Brains. Yet this creates a “youngness problem” — you should find yourself among the first observers in a brand-new universe, ...
+  L  29 [CURLY x2]
+        ...nentially rare quantum events — but the “infinity” factor tips the balance toward ordinary observers.
+  L  35 [CURLY x2]
+        ... claims this provides a practical test: “I will wait 10 seconds and see if I am still here.” If you were a Boltzmann Brain, you would likely dissipate or cease coherent fu...
+  L  37 [CURLY x2]
+        ...ing waited successfully. When you reach “10” and conclude you've passed the test, you could be a newly formed BB with false...
+  L  55 [CURLY x2]
+        \inlineimage{0.35}{34_BoltzmannBrain/boltzmann.png}{“It's Boltzmann brains all the way down!”}
+  --- Totals: 0 straight, 16 curly
+
+FILE: 35_TreesFromAir/main.tex
+
+  L   5 [CURLY x2]
+        The notion that trees “grow out of the earth” conflates anchorage with origin. The soil does provide essential ions and mech...
+  L  39 [CURLY x2]
+        ... As Richard Feynman remarked, trees are “made of air”. When a tree burns, the carbon returns to the atmosphere, and the stored sunli...
+  L  96 [CURLY x2]
+        “Come, climb my trunk, swing, eat, and be happy.”}
+  L 100 [CURLY x2]
+        {\large “I'm too big to play,” said the boy.\\
+  L 101 [CURLY x2]
+        “I want money, to buy things and have fun.”}
+  L 103 [CURLY x2]
+        {\large “I don't have money,” said the tree,\\
+  L 104 [CURLY x1]
+        “but you can take some apples—\\
+  L 105 [CURLY x1]
+        sell a few, share a few, and plant one or two.”}
+  L 117 [CURLY x2]
+        “I want a house,” he said,\\
+  L 118 [CURLY x2]
+        “for warmth, for family.”}
+  L 122 [CURLY x2]
+        {\large “I don't have a house,” said the tree,\\
+  L 123 [CURLY x1]
+        “but take my fallen branches.\\
+  L 124 [CURLY x1]
+        Leave enough for me to grow.”}
+  L 135 [CURLY x2]
+        “I want a boat to go far away.”}
+  L 139 [CURLY x2]
+        {\large “Some of my thicker branches grew wild,” said the tree.\\
+  L 140 [CURLY x2]
+        “You can use them.”}
+  L 149 [CURLY x2]
+        “I don't need much now,” he said,\\
+  L 150 [CURLY x2]
+        “just a place to rest.”}
+  L 155 [CURLY x1]
+        “Come sit.\\
+  L 157 [CURLY x1]
+        And I'm glad you're here.”}
+  --- Totals: 0 straight, 34 curly
+
+FILE: 38_ChristmasTruce1914/main.tex
+
+  L   1 [CURLY x2]
+        ...a. The inscription at Olympia declared: “May the world be delivered from crime and killing and freed from the clash of arms.” War paused not for humanitarian ideals but for religious obligation — the game...
+  L   3 [CURLY x2]
+        ...arriors. Hector proposes gift exchange: “Let us give each other gifts, so that Trojans and Achaeans alike may say: 'These two fought in soul-consuming strife, then parted, joined in friendship.'” Ajax presents his purple war belt with silver studs; Hector reciprocates with ...
+  L  11 [CURLY x4]
+        ...d Battalion Gordon Highlanders reported “breakfast truces” where both sides refrained from sniping during morning meals. Saxon regiments ...
+  L  13 [CURLY x2]
+        ...Christmas trees and sing carols such as “Stille Nacht.” British soldiers responded with their own songs, and in many places this share...
+  L  31 [CURLY x2]
+        ...istmas morning we stuck up a board with “A Merry Christmas” on it. The enemy had stuck up a similar one. Platoons would sometimes go out f...
+  --- Totals: 0 straight, 12 curly
+
+FILE: 39_SuperpermutationsBreakthrough/main.tex
+
+  L  58 [CURLY x2]
+        ...search, and cited the unknown author as “Anonymous 4chan Poster” — a designation that remains standard in subsequent academic references. The o...
+  L  64 [CURLY x2]
+        ...evertheless, the mathematics holds. The “Haruhi Problem” has since entered the literature as a textbook case in combinatorial optimizat...
+  --- Totals: 0 straight, 4 curly
+
+FILE: 40_DNASequencing/main.tex
+
+  L   5 [CURLY x2]
+        ...\textcolor{orange}{G} typically signals “start translation,” while the others specify specific amino acids. If the first base changes from ...
+  L  54 [CURLY x4]
+        ... literature sometimes misreports N50 as “median contig length (N50).” The N50 is a length-weighted metric, not the simple median of contig lengths. ...
+  --- Totals: 0 straight, 6 curly
+
+FILE: 43_NearFlatUniverse/main.tex
+
+  L  33 [STRAIGHT x2]
+        ... accordingly. Whether or not the result "feels right" is irrelevant.
+  L  41 [STRAIGHT x2]
+        The name "$\Lambda$CDM" reflects the model's two dominant components: $\Lambda$ (Lambda) ...
+  L  44 [STRAIGHT x2]
+        The investigation of the origin of "the world" is a central theme in all cultures — from spacetime to abiogenesis, ...
+  --- Totals: 6 straight, 0 curly
+
+FILE: 44_IronMask/main.tex
+
+  L  11 [CURLY x4]
+        ...consistently indirect — phrases such as “the one you know” or “the old prisoner” replaced any identifying language.
+  L  17 [CURLY x2]
+        ...continued. He was buried under the name “Marchioly” in the parish cemetery of Saint-Paul-des-Champs. This name appears nowhere in ...
+  L  19 [CURLY x2]
+        ...ion in internal correspondence remained “valet” during his time at Pignerol. He was not granted enhanced rations, special acco...
+  L  33 [CURLY x2]
+        ...egister entry describing his arrival in “a mask of black velvet.”
+  L  37 [CURLY x4]
+        ...es de cachet} on March 16, 1790, citing “the sacred rights of men” and “the horror that secret orders inspire in a free nation.” The debates surr...
+  L  54 [CURLY x2]
+        ..., 2001. The legalese classifies them as “unlawful enemy combatants” rather than prisoners of war or criminal defendants. This classification place...
+  L  58 [CURLY x2]
+        In 2025, the “Alligator Alcatraz” detention center opened in Florida's Everglades. Civil rights organizations fi...
+  --- Totals: 0 straight, 18 curly
+
+FILE: 45_MaxwellDemon/main.tex
+
+  L   9 [CURLY x2]
+        ...er-entropy, specific macrostate, so any “random” process will tend to increase entropy. The law governs irreversibility in macr...
+  L  45 [CURLY x2]
+        The “piston-demon” model suggests the moving partition itself serves as memory, its position enco...
+  L  55 [CURLY x4]
+        ...Solid-State Drives}: In flash memory, a “1” corresponds to additional trapped electrons in a floating gate. A terabyte wri...
+  --- Totals: 0 straight, 8 curly
+
+FILE: 47_ObserverDependentVacuum/main.tex
+
+  L   1 [CURLY x2]
+        The term “vacuum” has distinct meanings across classical physics, quantum field theory, and gene...
+  L  43 [CURLY x4]
+        ...n be decomposed into positive-frequency “in” states defined relative to the flat metric. After collapse, an event horizon f...
+  L  57 [CURLY x2]
+        ... \textit{Nature} (1974) under the title “Black hole explosions?” followed by a detailed derivation in \textit{Communications in Mathematical Ph...
+  --- Totals: 0 straight, 8 curly
+
+FILE: 48_three_body/main.tex
+
+  L  23 [CURLY x2]
+        ...into macroscopic unpredictability. This “butterfly effect” — the notion that a butterfly flapping its wings in Brazil could trigger a tor...
+  --- Totals: 0 straight, 2 curly
+
+FILE: 49_IVFmtDNA/main.tex
+
+  L  31 [CURLY x6]
+        ...urse often responds with labels such as “three-parent baby,” referring to cases where nuclear DNA comes from two individuals and mtDNA from...
+  L  33 [CURLY x10]
+        ...hysics a century ago. Questions such as “what is light?” or “what is an electron?” gave way to rigorously framed operational questions:...
+  L  35 [CURLY x4]
+        ...cal imprecision pervades discussions of “biological sex.” The term conflates multiple distinct but correlated traits — chromosomal karyo...
+  L  37 [CURLY x4]
+        ...being measured. When researchers invoke “biological sex” without clarifying whether they mean chromosomal composition, hormonal milieu,...
+  L  52 [CURLY x2]
+        ...He Jiankui to three years in prison for “illegal medical practices,” alongside financial penalties and professional bans. Two of his collaborators ...
+  L  54 [CURLY x2]
+        ... the twin girls and a third child — are “healthy and living normal lives,” though no independent medical verification or peer-reviewed follow-up data has...
+  --- Totals: 0 straight, 28 curly
+
+FILE: 50_Consciousness/main.tex
+
+  L  11 [CURLY x2]
+        ...rk hypotheses move up a level. Thalamic “switch-off” models propose that sensory relay and intralaminar nuclei disengage cortical b...
+  L  29 [CURLY x4]
+        ...es. If the subject is deleted, the word “illusion” loses reference. The sentence “free will is an illusion” requires a subject th...
+  L  35 [CURLY x2]
+        ...ibet himself noted that subjects retain “free won't” — the ability to cancel incipient actions after becoming aware of them. More f...
+  L  45 [CURLY x2]
+        ...lation ends and someone unplugs me from “The Matrix”, mind blown. Days to recover. But recovery is possible. I can still compare, i...
+  L  51 [CURLY x2]
+        ...urns out to be false — then there is no “I” left to register the failure. Incompatible with the standpoint from which acce...
+  L  61 [CURLY x4]
+        ...ce and vanishing matter lies elsewhere. “When does awareness switch off?” asks about timing and mechanism. “What is it to direct one's own thought?” ask...
+  --- Totals: 0 straight, 16 curly
+
+------------------------------------------------------------------------------------------
+GRAND TOTAL: 21 straight quotes, 556 curly quotes
+  All 577 quote characters need -> \QENOpen{} or \QENClose{}
+==========================================================================================

@@ -1,0 +1,346 @@
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{xparse}
+\usepackage[margin=1in]{geometry}
+
+% ============================================================
+% SOLUTION A: Simple makebox approach (hangleft/hangright)
+%             Right-aligned text, quotes hang both sides
+% ============================================================
+\newcommand{\hangleft}[1]{\makebox[0pt][r]{#1}}
+\newcommand{\hangright}[1]{\makebox[0pt][l]{#1}}
+
+\newcommand{\qenA}[1]{\hangleft{\textquotedblleft}#1\hangright{\textquotedblright}}
+\newcommand{\qdeA}[1]{\hangleft{\quotedblbase}#1\hangright{\textquotedblleft}}
+\newcommand{\qfrA}[1]{\hangleft{\guillemotleft}~#1~\hangright{\guillemotright}}
+
+% ============================================================
+% SOLUTION B: expl3 hangcentquote environment
+%             Right-aligned text, quotes hang both sides
+% ============================================================
+\ExplSyntaxOn
+
+\dim_new:N \l_hcq_gap_dim
+\dim_set:Nn \l_hcq_gap_dim { .08em }
+
+\NewDocumentCommand \HangQuoteGap { m }
+  { \dim_set:Nn \l_hcq_gap_dim {#1} }
+
+\NewDocumentEnvironment {hangcentquote} { m m +b }
+  {
+    \seq_set_split:Nnn \l_tmpa_seq { \\ } { #3 }
+    \int_compare:nNnTF { \seq_count:N \l_tmpa_seq } = {1}
+      {
+        \tl_set:Nx \l_tmpa_tl { \seq_item:Nn \l_tmpa_seq {1} }
+        \begin{tabular}{@{}r@{}}
+          \llap{#1\kern\l_hcq_gap_dim}\l_tmpa_tl\rlap{\kern\l_hcq_gap_dim#2}
+        \end{tabular}
+      }
+      {
+        \seq_pop_left:NN  \l_tmpa_seq \l_tmpa_tl
+        \seq_pop_right:NN \l_tmpa_seq \l_tmpb_tl
+        \begin{tabular}{@{}r@{}}
+          \llap{#1\kern\l_hcq_gap_dim}\l_tmpa_tl\\
+          \seq_map_inline:Nn \l_tmpa_seq { ##1\\ }
+          \l_tmpb_tl\rlap{\kern\l_hcq_gap_dim#2}
+        \end{tabular}
+      }
+  }
+  { }
+
+% ============================================================
+% SOLUTION E: expl3 hangleftquote environment
+%             LEFT-aligned text, opening quote hangs LEFT,
+%             closing quote inline, block flush-right on page
+% ============================================================
+\NewDocumentEnvironment {hangleftquote} { m m +b }
+  {
+    \seq_set_split:Nnn \l_tmpa_seq { \\ } { #3 }
+    \int_compare:nNnTF { \seq_count:N \l_tmpa_seq } = {1}
+      {
+        \tl_set:Nx \l_tmpa_tl { \seq_item:Nn \l_tmpa_seq {1} }
+        \begin{tabular}{@{}l@{}}
+          \llap{#1\kern\l_hcq_gap_dim}\l_tmpa_tl #2
+        \end{tabular}
+      }
+      {
+        \seq_pop_left:NN  \l_tmpa_seq \l_tmpa_tl
+        \seq_pop_right:NN \l_tmpa_seq \l_tmpb_tl
+        \begin{tabular}{@{}l@{}}
+          \llap{#1\kern\l_hcq_gap_dim}\l_tmpa_tl\\
+          \seq_map_inline:Nn \l_tmpa_seq { ##1\\ }
+          \l_tmpb_tl #2
+        \end{tabular}
+      }
+  }
+  { }
+
+\ExplSyntaxOff
+
+\newcommand{\QENOpen}{\textquotedblleft}
+\newcommand{\QENClose}{\textquotedblright}
+\newcommand{\QDEOpen}{\quotedblbase}
+\newcommand{\QDEClose}{\textquotedblleft}
+\newcommand{\QFROpen}{\guillemotleft\nobreak\thinspace}
+\newcommand{\QFRClose}{\thinspace\nobreak\guillemotright}
+
+% ============================================================
+% SOLUTION C: Original (no hanging)
+% ============================================================
+\newcommand{\qenC}[1]{\textquotedblleft{}#1\textquotedblright{}}
+\newcommand{\qdeC}[1]{\quotedblbase{}#1\textquotedblleft{}}
+\newcommand{\qfrC}[1]{\guillemotleft{}~#1~\guillemotright{}}
+
+% ============================================================
+% SOLUTION D: Simple left-aligned, left-hanging opening quote
+%             Closing quote inline, block flush-right on page
+%             (single-line inline commands)
+% ============================================================
+\newcommand{\qenD}[1]{\llap{\textquotedblleft}#1\textquotedblright}
+\newcommand{\qdeD}[1]{\llap{\quotedblbase}#1\textquotedblleft}
+\newcommand{\qfrD}[1]{\llap{\guillemotleft\thinspace}#1\thinspace\guillemotright}
+
+% ============================================================
+\begin{document}
+
+\section*{Hanging Quotation Mark Experiments}
+
+\noindent Solutions A--C: text is \textbf{right-aligned}, quotes hang on both sides.\\
+Solutions D--E: text is \textbf{left-aligned} (flush-right on page), opening quote hangs \textbf{left} only (classical hanging punctuation).
+
+% ============================================================
+% TEST 1: TOLKIEN (English, multi-line)
+% ============================================================
+\subsection*{Test 1: Tolkien (English, multi-line)}
+
+\textbf{Solution C: Original (no hanging), right-aligned:}
+\begin{flushright}
+\emph{\qenC{All that is gold does not glitter,\\
+not all those who wander are lost;\\
+the old that is strong does not wither,\\
+deep roots are not reached by the frost.}}\\
+--- J.R.R. Tolkien, 1954
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution A: makebox hangleft/hangright, right-aligned:}
+\begin{flushright}
+\emph{\qenA{All that is gold does not glitter,\\
+not all those who wander are lost;\\
+the old that is strong does not wither,\\
+deep roots are not reached by the frost.}}\\
+--- J.R.R. Tolkien, 1954
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution B: hangcentquote env, right-aligned:}
+\begin{flushright}
+\itshape
+\begin{hangcentquote}{\QENOpen}{\QENClose}
+  All that is gold does not glitter,\\
+  not all those who wander are lost;\\
+  the old that is strong does not wither,\\
+  deep roots are not reached by the frost.
+\end{hangcentquote}
+\par\smallskip
+\normalfont --- J.R.R. Tolkien, 1954
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution D: left-aligned, left-hanging (tabular), flush-right:}
+\begin{flushright}
+\begin{tabular}{@{}l@{}}
+\itshape\llap{\textquotedblleft}All that is gold does not glitter,\\
+\itshape not all those who wander are lost;\\
+\itshape the old that is strong does not wither,\\
+\itshape deep roots are not reached by the frost.\textquotedblright\\
+\normalfont --- J.R.R. Tolkien, 1954
+\end{tabular}
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution E: hangleftquote env, left-aligned, flush-right:}
+\begin{flushright}
+\itshape
+\begin{hangleftquote}{\QENOpen}{\QENClose}
+  All that is gold does not glitter,\\
+  not all those who wander are lost;\\
+  the old that is strong does not wither,\\
+  deep roots are not reached by the frost.
+\end{hangleftquote}
+\par\smallskip
+\normalfont --- J.R.R. Tolkien, 1954
+\end{flushright}
+
+\newpage
+
+% ============================================================
+% TEST 2: SHORT SINGLE-LINE (English)
+% ============================================================
+\subsection*{Test 2: Short single-line (English)}
+
+\textbf{Solution C: Original:}
+\begin{flushright}
+\emph{\qenC{Time is an illusion. Lunchtime doubly so.}}\\
+--- Douglas Adams, 1979
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution A: makebox:}
+\begin{flushright}
+\emph{\qenA{Time is an illusion. Lunchtime doubly so.}}\\
+--- Douglas Adams, 1979
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution B: hangcentquote:}
+\begin{flushright}
+\itshape
+\begin{hangcentquote}{\QENOpen}{\QENClose}
+  Time is an illusion. Lunchtime doubly so.
+\end{hangcentquote}
+\par\smallskip
+\normalfont --- Douglas Adams, 1979
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution D: left-aligned, left-hanging (inline):}
+\begin{flushright}
+\emph{\qenD{Time is an illusion. Lunchtime doubly so.}}\\
+--- Douglas Adams, 1979
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution E: hangleftquote:}
+\begin{flushright}
+\itshape
+\begin{hangleftquote}{\QENOpen}{\QENClose}
+  Time is an illusion. Lunchtime doubly so.
+\end{hangleftquote}
+\par\smallskip
+\normalfont --- Douglas Adams, 1979
+\end{flushright}
+
+\newpage
+
+% ============================================================
+% TEST 3: FRENCH WITH GUILLEMETS
+% ============================================================
+\subsection*{Test 3: French with guillemets}
+
+\textbf{Solution C: Original:}
+\begin{flushright}
+\emph{\qfrC{Arithmétique! algèbre! géométrie!\\
+trinité grandiose! triangle lumineux!}}\\
+--- Comte de Lautréamont, 1869
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution A: makebox:}
+\begin{flushright}
+\emph{\qfrA{Arithmétique! algèbre! géométrie!\\
+trinité grandiose! triangle lumineux!}}\\
+--- Comte de Lautréamont, 1869
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution B: hangcentquote:}
+\begin{flushright}
+\itshape
+\begin{hangcentquote}{\QFROpen}{\QFRClose}
+  Arithmétique! algèbre! géométrie!\\
+  trinité grandiose! triangle lumineux!
+\end{hangcentquote}
+\par\smallskip
+\normalfont --- Comte de Lautréamont, 1869
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution D: left-aligned, left-hanging (tabular):}
+\begin{flushright}
+\begin{tabular}{@{}l@{}}
+\itshape\llap{\guillemotleft\thinspace}Arithmétique! algèbre! géométrie!\\
+\itshape trinité grandiose! triangle lumineux!\thinspace\guillemotright\\
+\normalfont --- Comte de Lautréamont, 1869
+\end{tabular}
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution E: hangleftquote:}
+\begin{flushright}
+\itshape
+\begin{hangleftquote}{\QFROpen}{\QFRClose}
+  Arithmétique! algèbre! géométrie!\\
+  trinité grandiose! triangle lumineux!
+\end{hangleftquote}
+\par\smallskip
+\normalfont --- Comte de Lautréamont, 1869
+\end{flushright}
+
+\bigskip
+
+% ============================================================
+% TEST 4: GERMAN
+% ============================================================
+\subsection*{Test 4: German}
+
+\textbf{Solution C: Original:}
+\begin{flushright}
+\emph{\qdeC{Ich bin überzeugt, dass der Alte nicht würfelt.}}\\
+--- Albert Einstein, 1926
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution A: makebox:}
+\begin{flushright}
+\emph{\qdeA{Ich bin überzeugt, dass der Alte nicht würfelt.}}\\
+--- Albert Einstein, 1926
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution B: hangcentquote:}
+\begin{flushright}
+\itshape
+\begin{hangcentquote}{\QDEOpen}{\QDEClose}
+  Ich bin überzeugt, dass der Alte nicht würfelt.
+\end{hangcentquote}
+\par\smallskip
+\normalfont --- Albert Einstein, 1926
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution D: left-aligned, left-hanging (inline):}
+\begin{flushright}
+\emph{\qdeD{Ich bin überzeugt, dass der Alte nicht würfelt.}}\\
+--- Albert Einstein, 1926
+\end{flushright}
+
+\bigskip
+
+\textbf{Solution E: hangleftquote:}
+\begin{flushright}
+\itshape
+\begin{hangleftquote}{\QDEOpen}{\QDEClose}
+  Ich bin überzeugt, dass der Alte nicht würfelt.
+\end{hangleftquote}
+\par\smallskip
+\normalfont --- Albert Einstein, 1926
+\end{flushright}
+
+\end{document}

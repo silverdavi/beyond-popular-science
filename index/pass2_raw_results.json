@@ -1,0 +1,3484 @@
+[
+  {
+    "chapter_num": 1,
+    "chapter_dir": "01_BanachTarskiParadox",
+    "entries": [
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "infinity"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "free group"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group action"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "equidecomposition"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "measure theory"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "foundations of analysis"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 2,
+    "chapter_dir": "02_TopologicalInsulators",
+    "entries": [
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "band theory"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phases"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "surface properties"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "localization"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "phonons"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "molecular orbitals"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 3,
+    "chapter_dir": "03_GoldRelativity",
+    "entries": [
+      {
+        "subject": "Chemistry",
+        "subtopic": "bonding"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "molecular orbitals"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "band theory"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "optics"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "localization"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "length contraction"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 4,
+    "chapter_dir": "04_EMFieldsEnergyFlow",
+    "entries": [
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "wave propagation"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "Poynting vector"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "propagation"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "phonons"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat transfer"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat flow"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "structure"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Amp\u00e8re Andr\u00e9-Marie"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": null
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "gauge theory"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 5,
+    "chapter_dir": "05_CircleWheel",
+    "entries": [
+      {
+        "subject": "Linguistics",
+        "subtopic": "indo-european languages"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "phonology"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "reduplication"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "roots"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "sanskrit"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "semantics"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "syntax"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "writing systems"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 6,
+    "chapter_dir": "06_GravityTimeDilation",
+    "entries": [
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "equivalence principle"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "geodesics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "gravitational waves"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "black hole metrics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "event horizon"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "atomic clocks"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "global positioning system (gps)"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 7,
+    "chapter_dir": "07_BilliardsConicsPorism",
+    "entries": [
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "dynamical systems"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "algebraic geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "measure theory"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "equidistribution"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "optics"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "algebraic structures"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "nonlinear dynamics"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 8,
+    "chapter_dir": "08_BoundedPrimeGaps",
+    "entries": [
+      {
+        "subject": "Number Theory",
+        "subtopic": "primes"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "gaps"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "combinatorics"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "goldbach's conjecture"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "green-tao theorem"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Euler Leonhard"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Erd\u0151s Paul"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "hilbert's tenth problem"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "infinity"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "equidistribution"
+      },
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 9,
+    "chapter_dir": "09_ArrowTheoremTopology",
+    "entries": [
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "social choice theory"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "voting systems"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "impossibility theorems"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "proof techniques"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "logic"
+      }
+    ],
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "chapter_num": 10,
+    "chapter_dir": "10_SolarFusionQuantumTunneling",
+    "entries": [
+      {
+        "subject": "Physics",
+        "subtopic": "nuclear fusion"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "fine-structure constant"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": null
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "radiative transfer"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "propagation"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat transfer"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical mysteries"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "oscillators"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "exponential function"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 11,
+    "chapter_dir": "11_AcceleratingUniverse",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmological constant"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter and dark energy"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "nuclear fusion"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "hamiltonian dynamics"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "global positioning system (gps)"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 12,
+    "chapter_dir": "12_GSMEncryptionOrder",
+    "entries": [
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "cryptography"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "error correction"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "attack vectors"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "cryptanalysis"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "encryption protocols"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "telecommunications"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "vulnerabilities"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "communication channels"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "algebraic structures"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "history"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 13,
+    "chapter_dir": "13_PoissonsSpot",
+    "entries": [
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "optics"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "wave propagation"
+      },
+      {
+        "subject": "History",
+        "subtopic": "french academy of sciences"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "interference"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phases"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "photoelectric effect"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "qed"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "diffraction"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "huygens' principle"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "propagation"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "refraction"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 14,
+    "chapter_dir": "14_CompactTwinParadox",
+    "entries": [
+      {
+        "subject": "Relativity",
+        "subtopic": "special relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "geodesics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "equivalence principle"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "anatomy"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group action"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "methodology"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 15,
+    "chapter_dir": "15_EnvelopeParadox",
+    "entries": [
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "expected value"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "measure theory"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "methodology"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "decision making"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "social choice theory"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "infinity"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "logic"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "choice theory"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "cognitive science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "foundations of analysis"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 16,
+    "chapter_dir": "16_FalseVacuumThreat",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic inflation"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Evolution",
+        "subtopic": "extinction"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "electroweak theory"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "higgs field"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "higgs mechanism"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phases"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "propagation"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 17,
+    "chapter_dir": "17_BigNumbers",
+    "entries": [
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Archimedes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "historical number systems"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "exponential function"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "notation"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "combinatorics"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Computability & Complexity",
+        "subtopic": "computational complexity"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "infinity"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "feferman-sch\u00fctte ordinal"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "large cardinals"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "paradoxes"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 18,
+    "chapter_dir": "18_SpeculativeExecutionAttacks",
+    "entries": [
+      {
+        "subject": "Computability & Complexity",
+        "subtopic": "optimization"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "cryptography"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "attack vectors"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "cryptanalysis"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "encryption protocols"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "vulnerabilities"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "communication channels"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "shannon entropy"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 19,
+    "chapter_dir": "19_CosmicRayMuons",
+    "entries": [
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "length contraction"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "gauge theory"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "exponential function"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 20,
+    "chapter_dir": "20_ChineseRoomArgument",
+    "entries": [
+      {
+        "subject": "Computer Science",
+        "subtopic": "artificial intelligence"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "intentionality"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "consciousness"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "generalization"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "logic"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "causality"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "semantics"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "syntax"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "cognitive science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "methodology"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "shannon entropy"
+      },
+      {
+        "subject": "Computability & Complexity",
+        "subtopic": "optimization"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 21,
+    "chapter_dir": "21_ExponentialMapsLieTheory",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "subtopic": "exponential function"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "gamma function"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "factorial function"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "foundations of analysis"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "algebraic geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group cohomology"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group action"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "measure theory"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Euler Leonhard"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 22,
+    "chapter_dir": "22_MinecraftCreeper",
+    "entries": [
+      {
+        "subject": "Gaming & Simulation",
+        "subtopic": "minecraft"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "gaming"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "artificial intelligence"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "data structures"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "anatomy"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 23,
+    "chapter_dir": "23_BlackHoleTimeDilationRedshift",
+    "entries": [
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "black holes"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      }
+    ],
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "chapter_num": 24,
+    "chapter_dir": "24_FourDSpacetime",
+    "entries": [
+      {
+        "subject": "Chemistry",
+        "subtopic": "bonding"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "wave propagation"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group action"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "high-dimensional geometry"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "gauge theory"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "qed"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "black hole metrics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Dyson Freeman"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "huygens' principle"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "propagation"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 25,
+    "chapter_dir": "25_FireflyBioluminescence",
+    "entries": [
+      {
+        "subject": "Bioluminescence",
+        "subtopic": "photinus pyralis"
+      },
+      {
+        "subject": "Bioluminescence",
+        "subtopic": "photocytes"
+      },
+      {
+        "subject": "Bioluminescence",
+        "subtopic": "photuris"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "anatomy"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "hydrogen bonding"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "molecular orbitals"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "band theory"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "oscillators"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "structure"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "emission"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black-body radiation"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 26,
+    "chapter_dir": "26_JewishCalendar",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "subtopic": "calendar systems"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "lunar cycles"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "calendars"
+      },
+      {
+        "subject": "Jewish Calendar & Religion",
+        "subtopic": "religious law"
+      }
+    ],
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "chapter_num": 27,
+    "chapter_dir": "27_PlanetarySkyColors",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "atmospheric conditions"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "optics"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "surface properties"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "emission"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "gravity darkening"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black-body radiation"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "radiative transfer"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 28,
+    "chapter_dir": "28_NegativeTemp",
+    "entries": [
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "ideal gas"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat flow"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black hole thermodynamics"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black-body radiation"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "event horizon"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "black hole metrics"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 29,
+    "chapter_dir": "29_HatMonotile",
+    "entries": [
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "tilings"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "aperiodic patterns"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "combinatorics"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quasicrystals"
+      }
+    ],
+    "error": "499 The operation was cancelled."
+  },
+  {
+    "chapter_num": 30,
+    "chapter_dir": "30_SimpsonsParadox",
+    "entries": [
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "methodology"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "expected value"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "redistricting"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "social choice theory"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 31,
+    "chapter_dir": "31_osmosis_Debye",
+    "entries": [
+      {
+        "subject": "Chemistry",
+        "subtopic": "membrane science"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "Fick's law"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular membranes"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "hydration shells"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "ideal gas"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "hydrogen bonding"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "botany"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "surface properties"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 32,
+    "chapter_dir": "32_AtomicClocks",
+    "entries": [
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "atomic clocks"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "nuclear clocks"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "emission"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "interference"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "global positioning system (gps)"
+      },
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "oscillators"
+      },
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "calendar systems"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "fine-structure constant"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Cryptography & Security",
+        "subtopic": "telecommunications"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 33,
+    "chapter_dir": "33_IncubationInequality",
+    "entries": [
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "gaussian distribution"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "high-dimensional geometry"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "measure theory"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical mysteries"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "gamma function"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "indicator functions"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "expected value"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "primes"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "gaps"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 34,
+    "chapter_dir": "34_BoltzmannBrain",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "big bang theory"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic inflation"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmological constant"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter and dark energy"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "consciousness"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "event horizon"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phase space"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "cognitive science"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 35,
+    "chapter_dir": "35_TreesFromAir",
+    "entries": [
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "botany"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "bonding"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "homopolymers"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "isotope labeling"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "lignin"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "molecular orbitals"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "atmospheric conditions"
+      },
+      {
+        "subject": "Evolution",
+        "subtopic": "great oxygenation event"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "structure"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 36,
+    "chapter_dir": "36_qft_vs_gr",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmological constant"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "electroweak theory"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "gauge theory"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "higgs field"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "higgs mechanism"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "causality"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "paradoxes"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "qed"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "black hole metrics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "event horizon"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "geodesics"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black hole thermodynamics"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 37,
+    "chapter_dir": "37_DarkMatterEvidence",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "big bang theory"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "ideal gas"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 38,
+    "chapter_dir": "38_ChristmasTruce1914",
+    "entries": [
+      {
+        "subject": "History",
+        "subtopic": "first world war"
+      },
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      },
+      {
+        "subject": "History",
+        "subtopic": "imperial german army"
+      },
+      {
+        "subject": "History",
+        "subtopic": "historiography"
+      },
+      {
+        "subject": "History",
+        "subtopic": "geography"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical mysteries"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "history"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "atmospheric conditions"
+      },
+      {
+        "subject": "Game Theory & Voting",
+        "subtopic": "decision making"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 39,
+    "chapter_dir": "39_SuperpermutationsBreakthrough",
+    "entries": [
+      {
+        "subject": "Number Theory",
+        "subtopic": "combinatorics"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "factorial function"
+      },
+      {
+        "subject": "Computability & Complexity",
+        "subtopic": "optimization"
+      },
+      {
+        "subject": "Computability & Complexity",
+        "subtopic": "computational complexity"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical mysteries"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "history"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "algebraic structures"
+      },
+      {
+        "subject": "Number Theory",
+        "subtopic": "notation"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 40,
+    "chapter_dir": "40_DNASequencing",
+    "entries": [
+      {
+        "subject": "Genetics",
+        "subtopic": "assembly algorithms"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "sequencing technologies"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "human genome project"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "homopolymers"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "membrane science"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "data structures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "methodology"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "surface properties"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "optics"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 41,
+    "chapter_dir": "41_HoughTransfrom",
+    "entries": [
+      {
+        "subject": "Image Processing",
+        "subtopic": "hough transform"
+      },
+      {
+        "subject": "Image Processing",
+        "subtopic": "line detection"
+      },
+      {
+        "subject": "Image Processing",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "algorithms"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "gradient operators"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "indicator functions"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "high-dimensional geometry"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "algebraic geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 42,
+    "chapter_dir": "42_IceSlipperiness",
+    "entries": [
+      {
+        "subject": "Chemistry",
+        "subtopic": "hydrogen bonding"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "interfacial energy"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "cryosphere"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "oceanography"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "crystallography"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "History",
+        "subtopic": "geography"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "structure"
+      },
+      {
+        "subject": "Materials Science",
+        "subtopic": "surface properties"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "phonons"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "pressure melting"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Archimedes"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat flow"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 43,
+    "chapter_dir": "43_NearFlatUniverse",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "big bang theory"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic inflation"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmological constant"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "dark matter and dark energy"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "curvature"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "euclidean geometry"
+      },
+      {
+        "subject": "History",
+        "subtopic": "ancient history"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "forces"
+      },
+      {
+        "subject": "Particle Physics",
+        "subtopic": "leptons"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "geodesics"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Aristotle"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "infinity"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black-body radiation"
+      },
+      {
+        "subject": "Wave Physics & Optics",
+        "subtopic": "scattering"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 44,
+    "chapter_dir": "44_IronMask",
+    "entries": [
+      {
+        "subject": "History",
+        "subtopic": "geography"
+      },
+      {
+        "subject": "History",
+        "subtopic": "guantanamo bay"
+      },
+      {
+        "subject": "History",
+        "subtopic": "historiography"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical mysteries"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "history"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 45,
+    "chapter_dir": "45_MaxwellDemon",
+    "entries": [
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat flow"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "heat transfer"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Boltzmann Ludwig"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "shannon entropy"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phase space"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Computer Science",
+        "subtopic": "flash memory"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 46,
+    "chapter_dir": "46_WoodwardHoffmannRules",
+    "entries": [
+      {
+        "subject": "Chemistry",
+        "subtopic": "molecular orbitals"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "bonding"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "phases"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "exclusion principle"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "interference"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Group Theory",
+        "subtopic": "group action"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "anatomy"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 47,
+    "chapter_dir": "47_ObserverDependentVacuum",
+    "entries": [
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic expansion"
+      },
+      {
+        "subject": "Astronomy & Cosmology",
+        "subtopic": "cosmic microwave background"
+      },
+      {
+        "subject": "Condensed Matter Physics",
+        "subtopic": "quantum states"
+      },
+      {
+        "subject": "Electromagnetism",
+        "subtopic": "fields and forces"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "fourier analysis"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "fundamental constants"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "distributions"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "expected value"
+      },
+      {
+        "subject": "Quantum Mechanics",
+        "subtopic": "emission"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "black hole metrics"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "equivalence principle"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "event horizon"
+      },
+      {
+        "subject": "Relativity",
+        "subtopic": "general relativity"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Einstein Albert"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "breaking"
+      },
+      {
+        "subject": "Symmetry",
+        "subtopic": "groups"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black hole thermodynamics"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "black-body radiation"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "entropy"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 48,
+    "chapter_dir": "48_three_body",
+    "entries": [
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "chaos theory"
+      },
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "control theory"
+      },
+      {
+        "subject": "Dynamical Systems",
+        "subtopic": "oscillators"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "nonlinear dynamics"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "hamiltonian dynamics"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "forecasting"
+      },
+      {
+        "subject": "Climate & Atmosphere",
+        "subtopic": "atmospheric conditions"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "analysis"
+      },
+      {
+        "subject": "Mathematics",
+        "subtopic": "formalism & notation"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "dynamical systems"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "invariants"
+      },
+      {
+        "subject": "Geometry & Topology",
+        "subtopic": "differential geometry"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "gaussian distribution"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Time & Measurement",
+        "subtopic": "physics of time"
+      },
+      {
+        "subject": "Thermodynamics",
+        "subtopic": "ideal gas"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 49,
+    "chapter_dir": "49_IVFmtDNA",
+    "entries": [
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "developmental biology"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "membrane science"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "inheritance mechanisms"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "mitochondrial dna"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "sequencing technologies"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical anecdotes"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Linguistics",
+        "subtopic": "semantics"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "experimental techniques"
+      },
+      {
+        "subject": "Probability & Statistics",
+        "subtopic": "error and bias"
+      },
+      {
+        "subject": "Social Science",
+        "subtopic": "sociology"
+      }
+    ],
+    "error": null
+  },
+  {
+    "chapter_num": 50,
+    "chapter_dir": "50_Consciousness",
+    "entries": [
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular membranes"
+      },
+      {
+        "subject": "Biology & Life Sciences",
+        "subtopic": "cellular processes"
+      },
+      {
+        "subject": "Chemistry",
+        "subtopic": "membrane science"
+      },
+      {
+        "subject": "Genetics",
+        "subtopic": "inheritance mechanisms"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "17th-19th century"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "historical figures"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy"
+      },
+      {
+        "subject": "History & Philosophy of Science",
+        "subtopic": "philosophy of science"
+      },
+      {
+        "subject": "Information Theory",
+        "subtopic": "integrated information theory"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "brain structure"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "instrumentation"
+      },
+      {
+        "subject": "Neuroscience & Consciousness",
+        "subtopic": "philosophy of mind"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "causality"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "consciousness"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "epistemology"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "free will"
+      },
+      {
+        "subject": "Philosophy of Mind",
+        "subtopic": "logic"
+      },
+      {
+        "subject": "Physics",
+        "subtopic": "measurement"
+      },
+      {
+        "subject": "Scientists & Mathematicians",
+        "subtopic": "Descartes Ren\u00e9"
+      },
+      {
+        "subject": "Set Theory & Logic",
+        "subtopic": "paradoxes"
+      }
+    ],
+    "error": null
+  }
+]

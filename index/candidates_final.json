@@ -1,0 +1,1194 @@
+[
+  {
+    "subject": "Amp\u00e8re, Andr\u00e9-Marie",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Archimedes",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Aristotle",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Astronomy",
+    "subtopics": [
+      "big bang theory",
+      "cosmic expansion",
+      "cosmic inflation",
+      "cosmic microwave background",
+      "cosmological constant",
+      "dark matter",
+      "dark matter and dark energy",
+      "dark matter profiles",
+      "homestake experiment",
+      "jupiter"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Biology",
+    "subtopics": [
+      "anatomy",
+      "bioluminescence",
+      "botany",
+      "cellular membranes",
+      "cellular processes",
+      "developmental biology",
+      "ethics",
+      "fireflies",
+      "gene editing",
+      "genetics and dna"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Bioluminescence",
+    "subtopics": [
+      "photinus pyralis",
+      "photocytes",
+      "photuris"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Boltzmann, Ludwig",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Chemistry",
+    "subtopics": [
+      "bonding",
+      "membrane science",
+      "molecular orbitals",
+      "molecular structure",
+      "phases of matter",
+      "photochemistry",
+      "propofol",
+      "solutions",
+      "states of matter",
+      "volatile anesthetics"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Chemistry and Materials",
+    "subtopics": [
+      "homopolymers",
+      "hydrogen bonding",
+      "interfacial energy",
+      "isotope labeling",
+      "lignin"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Chemistry, Physical",
+    "subtopics": [
+      "chemical bonding",
+      "crystallography",
+      "reaction dynamics",
+      "spectroscopy"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Climate Science",
+    "subtopics": [
+      "cryosphere",
+      "oceanography"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Complexity and Computability",
+    "subtopics": [
+      "algorithmic information theory",
+      "computational complexity",
+      "optimization"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Computer Graphics and Simulation",
+    "subtopics": [
+      "game architecture",
+      "physics engines",
+      "rendering techniques"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Computer Science",
+    "subtopics": [
+      "algorithms",
+      "artificial intelligence",
+      "cryptography",
+      "hardware architecture",
+      "hardware history",
+      "internet culture",
+      "machine learning",
+      "memory management",
+      "microarchitecture",
+      "neural networks"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Computer architecture",
+    "subtopics": [
+      "processor design",
+      "retbleed",
+      "rowhammer"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Computing and Technology",
+    "subtopics": [
+      "error correction",
+      "flash memory",
+      "game engines",
+      "global positioning system (gps)",
+      "gsm standard"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Cosmology",
+    "subtopics": [
+      "friedmann equations",
+      "hubble diagram",
+      "hubble's law",
+      "lambda-cdm model",
+      "large-scale structure",
+      "models",
+      "structure formation",
+      "timeline"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Cryptography",
+    "subtopics": [
+      "protocols",
+      "vulnerabilities"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Cryptography & Communications",
+    "subtopics": [
+      "cryptanalysis",
+      "encryption protocols",
+      "telecommunications"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Cryptography and Security",
+    "subtopics": [
+      "attack vectors",
+      "encryption protocols"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Descartes, Ren\u00e9",
+    "subtopics": [
+      "cartesian coordinates",
+      "philosophy of mind"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Dynamical Systems",
+    "subtopics": [
+      "chaos theory",
+      "control theory",
+      "oscillators"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Dyson, Freeman",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Einstein, Albert",
+    "subtopics": [
+      "photoelectric effect",
+      "relativity"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Electromagnetism",
+    "subtopics": [
+      "fields and forces",
+      "optics",
+      "wave propagation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Erd\u0151s, Paul",
+    "subtopics": [
+      "erd\u0151s number"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Euler, Leonhard",
+    "subtopics": [
+      "euler characteristic",
+      "euler's formula"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Evolution and Paleontology",
+    "subtopics": [
+      "extinction",
+      "great oxygenation event"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Faraday, Michael",
+    "subtopics": [
+      "electromagnetism",
+      "force fields"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Feynman, Richard",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "French History (17th Century)",
+    "subtopics": [
+      "legal mechanisms",
+      "louis xiv era",
+      "military administration",
+      "myths and legends"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Galaxies",
+    "subtopics": [
+      "galaxy clusters",
+      "rotation curves"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Galileo Galilei",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Game Theory",
+    "subtopics": [
+      "pop culture examples",
+      "strategy"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Game Theory & Voting Systems",
+    "subtopics": [
+      "decision making",
+      "social choice theory",
+      "voting paradoxes"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Game Theory and Social Choice",
+    "subtopics": [
+      "strategic decision making",
+      "voting systems"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Gaming & Simulation",
+    "subtopics": [
+      "minecraft",
+      "strategy games"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Gamow, George",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "General Relativity",
+    "subtopics": [
+      "equivalence principle",
+      "event horizon",
+      "geodesics",
+      "gravitational waves",
+      "gravity darkening"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Genetics & Genomics",
+    "subtopics": [
+      "assembly algorithms",
+      "mitochondrial dna",
+      "sequencing technologies"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Genetics and Genomics",
+    "subtopics": [
+      "dna sequencing",
+      "human genome project",
+      "inheritance mechanisms"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Geometry",
+    "subtopics": [
+      "equidecomposition",
+      "euclidean geometry",
+      "hat tile",
+      "platonic solids",
+      "poncelet's porism",
+      "projective geometry",
+      "quaternions",
+      "riemannian geometry"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Geometry & Topology",
+    "subtopics": [
+      "manifolds",
+      "m\u00f6bius strips",
+      "non-orientable spaces",
+      "parallel transport",
+      "tiling and tessellation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Geometry and Topology",
+    "subtopics": [
+      "curvature",
+      "differential geometry",
+      "manifolds"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Gerrymandering",
+    "subtopics": [
+      "history"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Group Theory",
+    "subtopics": [
+      "free group",
+      "group action",
+      "group cohomology"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Guth, Alan",
+    "subtopics": [
+      "guth-vanchurin paradox"
+    ],
+    "include": true
+  },
+  {
+    "subject": "G\u00f6del, Kurt",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Hawking, Stephen",
+    "subtopics": [
+      "hawking radiation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Heisenberg, Werner",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "History",
+    "subtopics": [
+      "man in the iron mask",
+      "roman empire",
+      "roman republic"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History & Philosophy",
+    "subtopics": [
+      "calendar systems",
+      "historical mysteries",
+      "philosophy of science"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History & Society",
+    "subtopics": [
+      "ancient history",
+      "law and governance",
+      "military history"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History and Historiography",
+    "subtopics": [
+      "historiography",
+      "holocaust",
+      "imperial german army",
+      "jewish history"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History and Philosophy of Science",
+    "subtopics": [
+      "historical figures",
+      "philosophy"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History and Society",
+    "subtopics": [
+      "first world war",
+      "french academy of sciences",
+      "geography",
+      "guantanamo bay"
+    ],
+    "include": true
+  },
+  {
+    "subject": "History of Science",
+    "subtopics": [
+      "17th-19th century",
+      "historical anecdotes"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Hubble, Edwin",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Huygens, Christiaan",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Image Processing",
+    "subtopics": [
+      "algorithms",
+      "hough transform",
+      "line detection"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Information Theory",
+    "subtopics": [
+      "communication channels",
+      "data structures",
+      "error correction",
+      "integrated information theory",
+      "shannon entropy"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Judaica",
+    "subtopics": [
+      "pirkei de-rabbi eliezer",
+      "rabbinic figures",
+      "sanhedrin"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Kelvin, Lord (William Thomson)",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Kepler, Johannes",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Laplace, Pierre-Simon",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Leibniz, Gottfried Wilhelm",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Linguistics",
+    "subtopics": [
+      "indo-european languages",
+      "phonology",
+      "reduplication",
+      "roots",
+      "sanskrit",
+      "semantics",
+      "syntax",
+      "writing systems"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Logic and Set Theory",
+    "subtopics": [
+      "hilbert's tenth problem",
+      "infinity",
+      "large cardinals",
+      "paradoxes"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics",
+    "subtopics": [
+      "analysis",
+      "formalism & notation",
+      "measure theory",
+      "number theory",
+      "polymath project",
+      "radon transform",
+      "recursion",
+      "set theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics (Analysis and Geometry)",
+    "subtopics": [
+      "high-dimensional geometry",
+      "indicator functions",
+      "invariant measures",
+      "topology"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics (Analysis)",
+    "subtopics": [
+      "foundations of analysis",
+      "fourier analysis",
+      "gradient operators",
+      "green's function",
+      "helmholtz equation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics (Functions)",
+    "subtopics": [
+      "exponential function",
+      "factorial function",
+      "gamma function"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics, Discrete",
+    "subtopics": [
+      "combinatorics",
+      "graph theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics: Geometry & Topology",
+    "subtopics": [
+      "algebraic geometry",
+      "non-euclidean geometry",
+      "tiling and tessellation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Mathematics: Number Theory & Logic",
+    "subtopics": [
+      "analysis",
+      "prime numbers",
+      "recursive functions",
+      "set theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Maxwell, James Clerk",
+    "subtopics": [
+      "maxwell's demon",
+      "maxwell's equations",
+      "statistical mechanics"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Meteorology",
+    "subtopics": [
+      "atmospheric conditions",
+      "forecasting"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Neuroscience",
+    "subtopics": [
+      "brain structure",
+      "instrumentation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Neuroscience and Consciousness",
+    "subtopics": [
+      "brain imaging",
+      "cognitive science",
+      "philosophy of mind"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Newton, Isaac",
+    "subtopics": [
+      "classical mechanics"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Number Theory",
+    "subtopics": [
+      "algebraic structures",
+      "combinatorics",
+      "goldbach's conjecture",
+      "green-tao theorem",
+      "historical number systems",
+      "notation",
+      "primes",
+      "primes and conjectures"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Oppenheimer, J. Robert",
+    "subtopics": [
+      "nuclear physics"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Optics & Electromagnetism",
+    "subtopics": [
+      "diffraction",
+      "scattering",
+      "wave propagation"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Particle Physics",
+    "subtopics": [
+      "exotic matter",
+      "fine-structure constant",
+      "gauge theory",
+      "higgs field",
+      "higgs mechanism",
+      "leptons",
+      "standard model",
+      "subatomic particles"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Philosophy",
+    "subtopics": [
+      "consciousness",
+      "epistemology",
+      "intentionality",
+      "logic",
+      "philosophy of mind"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Philosophy & Mind",
+    "subtopics": [
+      "causality",
+      "consciousness",
+      "epistemology"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Philosophy and Logic",
+    "subtopics": [
+      "free will",
+      "generalization"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Photon",
+    "subtopics": [
+      "emission",
+      "photoelectric effect",
+      "transport"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics (Classical and Experimental)",
+    "subtopics": [
+      "experimental techniques",
+      "fick's law",
+      "fundamental constants",
+      "hamiltonian dynamics",
+      "nuclear fusion"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics (General)",
+    "subtopics": [
+      "measurement",
+      "nonlinear dynamics",
+      "thermodynamics"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics, Particle",
+    "subtopics": [
+      "neutrinos",
+      "standard model",
+      "strong interaction"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics, Quantum",
+    "subtopics": [
+      "field theory",
+      "measurement",
+      "states",
+      "string theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics, atomic",
+    "subtopics": [
+      "rabi oscillations",
+      "ramsey fringes",
+      "rubidium clocks"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics, condensed matter",
+    "subtopics": [
+      "localization",
+      "phonons",
+      "pressure melting",
+      "quantum hall effect",
+      "saha equation",
+      "semiconductors",
+      "superconductivity",
+      "topological states"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics: Condensed Matter",
+    "subtopics": [
+      "band theory",
+      "crystallography",
+      "quantum states"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Physics: Quantum & Particle",
+    "subtopics": [
+      "quantum mechanics",
+      "standard model",
+      "subatomic particles"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Poincar\u00e9, Henri",
+    "subtopics": [
+      "recurrence time"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Poisson, Sim\u00e9on Denis",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Prime numbers",
+    "subtopics": [
+      "gaps",
+      "riemann hypothesis"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Probability",
+    "subtopics": [
+      "distributions",
+      "principle of indifference",
+      "priors",
+      "prosecutor's fallacy"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Probability and Statistics",
+    "subtopics": [
+      "equidistribution",
+      "expected value",
+      "gaussian distribution"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Psychology",
+    "subtopics": [
+      "psychology of war",
+      "rationality"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Quantum Mechanics",
+    "subtopics": [
+      "exclusion principle",
+      "interference",
+      "nuclear clocks",
+      "phase space",
+      "phases",
+      "qed",
+      "quantum fluctuations",
+      "quantum numbers",
+      "quantum states",
+      "renormalization"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Rayleigh, Lord",
+    "subtopics": [
+      "scattering"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Relativity",
+    "subtopics": [
+      "black hole metrics",
+      "general relativity",
+      "length contraction",
+      "light cones",
+      "lorentz factor",
+      "preferred frame",
+      "reference frames",
+      "special relativity"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Russell, Bertrand",
+    "subtopics": [
+      "proof theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Sanger, Frederick",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Schr\u00f6dinger, Erwin",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Schwarzschild, Karl",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Set Theory",
+    "subtopics": [
+      "feferman-sch\u00fctte ordinal"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Social Science",
+    "subtopics": [
+      "choice theory",
+      "history",
+      "sociology"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Sommerfeld, Arnold",
+    "subtopics": [
+      "model",
+      "parameter"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Statistics",
+    "subtopics": [
+      "methodology",
+      "paradoxes",
+      "statistical phenomena",
+      "voting theory"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Statistics & Probability",
+    "subtopics": [
+      "distributions",
+      "paradoxes"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Statistics and Probability",
+    "subtopics": [
+      "error and bias",
+      "measure theory",
+      "statistical analysis"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Susskind, Leonard",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Symmetry",
+    "subtopics": [
+      "breaking",
+      "groups"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Szilard, Leo",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Tao, Terence",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Tarski, Alfred",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Thermodynamics",
+    "subtopics": [
+      "black hole thermodynamics",
+      "black-body radiation",
+      "entropy",
+      "equipartition theorem",
+      "gibbs entropy",
+      "heat flow",
+      "laws of thermodynamics",
+      "phase transitions",
+      "statistical mechanics",
+      "work"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Thermodynamics and Statistical Mechanics",
+    "subtopics": [
+      "entropy",
+      "heat transfer",
+      "ideal gas",
+      "kinetic theory",
+      "landauer's principle",
+      "phase transitions"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Thomson, William (Lord Kelvin)",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Three-body problem",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Time",
+    "subtopics": [
+      "measurement",
+      "physics of time"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Time and Measurement",
+    "subtopics": [
+      "atomic clocks",
+      "time standards"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Topology",
+    "subtopics": [
+      "dynamical systems",
+      "invariants"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Turing, Alan",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Voting Theory",
+    "subtopics": [
+      "independence of irrelevant alternatives",
+      "plurality voting",
+      "preference profile",
+      "redistricting",
+      "voting systems"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Water and Ice",
+    "subtopics": [
+      "hydration shells",
+      "structure",
+      "surface properties"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Wave Physics",
+    "subtopics": [
+      "huygens' principle",
+      "poynting vector",
+      "propagation",
+      "quality factor",
+      "radiative transfer",
+      "refraction"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Weak Interaction",
+    "subtopics": [
+      "electroweak theory",
+      "forces"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Weinberg, Steven",
+    "subtopics": [
+      "electroweak unification"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Wheeler, John",
+    "subtopics": [
+      "general relativity"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Woodward-Hoffmann Rules",
+    "subtopics": [
+      "orbital symmetry",
+      "organic chemistry"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Young, Thomas",
+    "subtopics": [],
+    "include": true
+  },
+  {
+    "subject": "Yukawa, Hideki",
+    "subtopics": [
+      "mesons",
+      "strong interaction"
+    ],
+    "include": true
+  },
+  {
+    "subject": "Zwicky, Fritz",
+    "subtopics": [
+      "dark matter",
+      "supernovae"
+    ],
+    "include": true
+  }
+]

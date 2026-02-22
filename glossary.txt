@@ -1,0 +1,804 @@
+[Chapter 01 — Banach–Tarski Paradox]
+Glossary tags:
+- axiom
+- Axiom of Choice (AC)
+- set
+- measure
+- countable additivity
+- non‑measurable set
+- invariance under rigid motions
+- free group F2
+- orbit (group action)
+- representative set (choice of orbit reps)
+- equidecomposition
+- amenability
+- Cayley graph
+- SO(3)
+- Hilbert’s Hotel
+
+Index tags:
+- Banach–Tarski paradox
+- Vitali set; Hausdorff paradox
+- Gödel consistency; Cohen forcing; ZF; ZFC; independence of AC
+- vector space basis; Tychonoff compactness
+- rigid motions; non‑measurable sets; orbit decomposition; free rotations
+
+
+[Chapter 02 — Topological Insulators]
+Glossary tags:
+- Fermi energy
+- band; band gap
+- Bloch wave
+- Brillouin zone
+- semiconductors; metals; band insulators
+- Berry phase
+- topological invariant
+- Chern number
+- Z2 invariant
+- time‑reversal symmetry; Kramers pairs
+- band inversion
+- bulk–boundary correspondence
+- spin–momentum locking
+- ARPES
+- anyons; non‑Abelian statistics
+
+Index tags:
+- topological insulator; quantum spin Hall effect
+- graphene (Kane–Mele)
+- HgTe/CdTe; Bi1−xSb; Bi2Se3; Bi2Te3; Sb2Te3
+- surface states; symmetry protection; disorder robustness
+
+
+[Chapter 03 — Relativity in Gold’s Color]
+Glossary tags:
+- atomic orbital
+- quantum numbers (n, ℓ, m, s)
+- Pauli exclusion principle
+- interband transition
+- Minkowski spacetime
+- relativistic energy
+- fine‑structure constant (α)
+- Dirac equation
+- relativistic s‑orbital contraction
+- spin–orbit coupling
+- Fermi level
+- d‑band; s‑band
+
+Index tags:
+- gold (Au) color; ~2.4 eV absorption; ~520 nm
+- silver (Ag) reflection; copper (Cu) reddish hue
+- mercury (Hg) liquid at room temperature
+- orbital energy shifts; 5d→6s transitions
+
+
+[Chapter 04 — Electromagnetic Energy Flow Outside Wires]
+Glossary tags:
+- Maxwell’s equations
+- displacement current
+- Poynting vector (S=E×H)
+- drift velocity
+- phonon
+- Debye length; Thomas–Fermi screening
+- Sommerfeld model
+- transmission line; waveguide
+
+Index tags:
+- energy flow in fields (outside wires)
+- Ørsted; Ampère; Faraday; Maxwell; Poynting; Heaviside
+- Veritasium energy‑flow debate
+- capacitors; speed of light c=1/√(ε0 μ0)
+
+
+[Chapter 05 — Circle, Wheel, and PIE Etymology]
+Glossary tags:
+- Proto‑Indo‑European (PIE)
+- comparative method
+- sound correspondences
+- kinship vocabulary (high‑retention)
+- reduplication
+- labiovelar (*kʷ)
+- Grimm’s Law
+- laryngeal (*h₂)
+- false cognates
+- root *kʷékʷlos (wheel, circle)
+- root *dʰugh₂tḗr (daughter)
+
+Index tags:
+- Sanskrit; Ancient Greek; Latin; Gothic; Old English
+- κύκλος (kyklos); chakra; wheel
+- galgal (Hebrew); g‑l‑l root
+- colere; circulus; cycle
+- Jones; Bopp; Schleicher (historical linguistics)
+
+
+[Chapter 06 — Gravity and Time Dilation]
+Glossary tags:
+- weak equivalence principle
+- strong equivalence principle
+- local inertial frame
+- metric tensor (g_{μν})
+- Minkowski metric; curved spacetime
+- gravitational time dilation (g_{00})
+- tidal effects
+- geodesic; proper time
+- gravitational redshift; blueshift
+- Schwarzschild weak‑field (ε=GM/(c²r))
+
+Index tags:
+- Einstein’s elevator
+- GPS time corrections
+- Mercury precession; Eddington eclipse
+- Pound–Rebka; Gravity Probe A
+- spacetime curvature vs spatial curvature
+
+
+[Chapter 07 — Billiards, Conics, and Poncelet’s Porism]
+Glossary tags:
+- billiard reflection law
+- ellipse; foci
+- Poncelet polygon; porism
+- Poncelet map
+- invariant measure (ds/ρ)
+- topological conjugacy
+- rotation number (circle map)
+- periodic orbits; dense orbits
+- Weyl equidistribution
+- Benford’s Law (logarithmic leading digits)
+
+Index tags:
+- Poncelet; Jacobi; Cayley
+- nested conics; elliptic curve connection
+- tangent chord; pole‑polar duality
+- ergodic theory; circle homeomorphism
+- leading digits; fraud detection (Benford)
+
+
+[Chapter 08 — Bounded Prime Gaps]
+Glossary tags:
+- primes; prime gaps
+- Prime Number Theorem (PNT)
+- Twin Prime Conjecture
+- bounded gaps between primes
+- GPY sieve; weighted sieve
+- admissible tuples
+- Bombieri–Vinogradov theorem; level of distribution
+- Elliott–Halberstam conjecture
+- von Mangoldt function (Λ)
+- maximal gap G(x); Cramér’s conjecture
+- arithmetic progressions in primes
+- Green–Tao theorem; additive combinatorics; ergodic theory
+- Riemann zeta function; analytic continuation; nontrivial zeros; critical line (Re s=1/2)
+
+Index tags:
+- Yitang Zhang (2013)
+- Polymath8; Maynard’s sieve
+- Euclid; Eratosthenes sieve; Euler; Riemann
+- Erdős; Brun; Selberg; Bombieri; Vinogradov
+- Green; Tao; Ziegler
+
+
+[Chapter 09 — Arrow’s Theorem and Topology]
+Glossary tags:
+- voting system; profile (total orders)
+- anonymity; neutrality; monotonicity; consistency
+- plurality; Borda count; Condorcet method; IRV (instant‑runoff)
+- Condorcet winner; pairwise majority comparisons
+- preference cycles; non‑transitivity
+- social welfare function (SWF)
+- unanimity (Pareto); non‑dictatorship; IIA; transitivity
+- Arrow’s impossibility theorem
+- topology/geometry of preference space
+- Lonely Runner Conjecture; Bohr set; fractional parts on R/Z
+
+Index tags:
+- Arrow; Gibbard–Satterthwaite
+- Debian Project (Condorcet); Australia House; Ireland presidency; San Francisco (IRV)
+- Saari; Balinski; Baryshnikov; representation/topology methods
+
+
+[Chapter 10 — Solar Fusion and Quantum Tunneling]
+Glossary tags:
+- nuclear fusion; proton–proton (pp) chain
+- hydrostatic equilibrium; radiation pressure
+- radiative diffusion; convective transport; photosphere; luminosity
+- E=mc^2 mass loss
+- weak interaction; lepton number conservation
+- positron; electron neutrino; solar neutrinos
+- Coulomb barrier; quantum tunneling
+- Gamow factor; Gamow energy; Gamow peak
+- Sommerfeld parameter; Maxwell–Boltzmann distribution; reaction cross section ⟨σv⟩
+- CNO cycle; main sequence
+- neutrino oscillations; neutrino mass
+- helioseismology; acoustic modes; interior structure
+
+Index tags:
+- Kelvin–Helmholtz (gravitational contraction)
+- Eddington; Gamow; Atkinson; Houtermans; Fowler; Bethe
+- Davis (Homestake); SNO
+- GONG; SOHO
+
+
+[Chapter 11 — Accelerating Universe (Dark Energy)]
+Glossary tags:
+- Type Ia supernovae; standard candles
+- luminosity distance d_L; distance modulus μ=m−M
+- redshift z; Hubble diagram
+- scale factor a(t); acceleration (\ddot a>0)
+- cosmological constant Λ; dark energy
+- CMB anisotropies; flat geometry
+- baryon acoustic oscillations (BAO)
+- Friedmann equations; ΛCDM composition (≈68/27/5)
+- vacuum energy; cosmological constant problem
+- negative pressure; equation of state
+
+Index tags:
+- Perlmutter; Riess; Schmidt (Nobel 2011)
+- Hubble; Friedmann; Lemaître
+- SNLS; SDSS-II; DES; Planck
+- Vera Rubin LSST; Roman Space Telescope
+
+
+[Chapter 12 — GSM: Encryption Order Matters]
+Glossary tags:
+- duplexing (FDD/TDD); multiplexing (FDMA/TDMA/CDMA)
+- TDMA frame; 114-bit burst; training/guard bits
+- speech codec; error-correction (convolutional)
+- interleaving; stream cipher (keystream XOR)
+- A5/1; A5/2; LFSR keystream
+- known-plaintext; ciphertext-only attack
+- parity leakage; algebraic relations
+- downgrade attack; base-station impersonation
+- SACCH; padding; protocol determinism
+
+Index tags:
+- Barkan; Biham; Keller
+- GSM cipher suite; key reuse across ciphers
+- lack of base-station authentication
+
+
+[Chapter 13 — Poisson’s (Arago) Spot]
+Glossary tags:
+- corpuscular theory vs wave theory
+- Huygens principle; Fresnel diffraction
+- Arago/Poisson spot; Babinet’s principle
+- interference; scalar diffraction; Helmholtz equation
+- Kirchhoff–Fresnel integral; on-axis intensity
+- wave–particle “duality”; quantum electrodynamics (QED)
+
+Index tags:
+- Newton; Huygens; Young; Fresnel; Poisson; Arago
+- French Academy Grand Prix (1818)
+- Born & Wolf; Feynman Lectures
+
+
+[Chapter 14 — Compact Twin Paradox and Chirality]
+Glossary tags:
+- special relativity; proper time
+- twin paradox; simultaneity shift
+- compact topology (x∼x+L); preferred rest frame
+- Sagnac asymmetry on compact space
+- non-orientable topology; Möbius strip; Klein bottle
+- chirality reversal; orientability
+- CMB topology searches; Ω_0≈1 flatness; 3‑torus
+
+Index tags:
+- Minkowski; Poincaré; Gödel
+- Planck constraints on topology
+
+
+[Chapter 15 — Two-Envelope (Switching) Paradox]
+Glossary tags:
+- two-envelope paradox; expected value fallacy
+- conditioning on observed amount; consistent model
+- prior distribution; proper vs improper priors
+- bounded finite model; edge effects
+- Pareto prior; log-uniform (improper)
+- Bertrand’s paradox (random chord)
+- Bayesian conditioning; decision theory
+
+Index tags:
+- Kraitchik; Littlewood; Schrödinger; Gardner; Nalebuff
+
+
+[Chapter 16 — False Vacuum and Higgs Metastability]
+Glossary tags:
+- quantum field theory (QFT); vacuum as field configuration
+- Higgs field (v ≈ 246 GeV); electroweak symmetry breaking
+- scalar (spin‑0); spin‑1/2; spin‑1; spin‑2
+- Higgs potential; Mexican‑hat; effective potential
+- renormalization group (running); λ(μ); top Yukawa y_t(μ)
+- vacuum stability vs metastability; false vacuum; true vacuum
+- instanton; Coleman–De Luccia tunneling; Euclidean action S_E
+- bubble nucleation; domain wall; thin‑wall limit
+- lifetime estimates (S_E/ħ ~ 400–500)
+- parameter sensitivity: m_t, m_H, α_s
+- high‑energy collisions safety (cosmic rays, LHC)
+
+Index tags:
+- Guth (inflation); false vacuum
+- Coleman; De Luccia; Degrassi
+- CERN 2012 Higgs discovery
+- metastability boundary; vacuum decay
+
+
+[Chapter 17 — Big Numbers and Transfinite Hierarchies]
+Glossary tags:
+- scientific notation; orders of magnitude
+- Knuth up‑arrow notation; tetration
+- Ackermann function
+- TREE(n); Kruskal’s tree theorem
+- busy beaver BB(n)
+- Rayo function
+- cardinals vs ordinals; ℵ₀; ω
+- epsilon numbers (ε₀); Veblen hierarchy φ; Feferman–Schütte Γ₀
+- inaccessible; measurable; supercompact cardinals
+- Hilbert’s Hotel; googol; googolplex
+
+Index tags:
+- Archimedes’ Sand Reckoner
+- Edward Kasner; Milton Sirotta (googol)
+- Harvey Friedman; Kruskal
+- Oswald Veblen; Feferman; Schütte
+- Church–Kleene ω₁^{CK}
+
+
+[Chapter 18 — Speculative Execution Attacks]
+Glossary tags:
+- pipelining; out‑of‑order; branch prediction
+- speculative/transient execution
+- side‑channel; cache‑timing oracle
+- Meltdown; Spectre (v1 bounds bypass, v2 BTB poisoning)
+- BTB; return stack buffer (RSB); global history
+- mitigations: LFENCE; KPTI; retpoline; IBPB/IBRS/STIBP
+- timing sources: RDTSC/RDTSCP; JS timers; SharedArrayBuffer
+- cache hierarchy (L1/L2/L3); 4KB pages; probe arrays
+- later attacks: Retbleed; Downfall; Inception; GhostRace
+
+Index tags:
+- Kocher timing; Bernstein AES cache; Rowhammer
+- IBM 360/91; Tomasulo; RISC/superscalar era
+- 2018 disclosures (Spectre/Meltdown)
+- Intel/AMD impact; performance overhead
+
+
+[Chapter 19 — Cosmic‑Ray Muons and Time Dilation]
+Glossary tags:
+- muon (μ±) mass 105.7 MeV; leptons
+- weak decay μ → e + ν + ν; τ₀ ≈ 2.2 μs
+- cosmic rays; hadronic showers; pions → muons
+- Lorentz factor γ; time dilation; length contraction
+- muon flux (~1 cm⁻² min⁻¹)
+- detectors: scintillator + PMT; cloud/bubble chambers; RPCs
+- muon tomography; underground detection
+- SM generations (leptons, quarks)
+
+Index tags:
+- Anderson; Neddermeyer (mesotron)
+- Yukawa pion; Powell–Lattes–Occhialini (π discovery)
+- Rossi–Hall (1941) altitude test
+
+
+[Chapter 20 — Chinese Room and AI Understanding]
+Glossary tags:
+- syntax vs semantics; intentionality
+- strong AI vs weak AI; Turing Test
+- embodiment; grounding; sensorimotor coupling
+- large language models (LLMs); next‑token prediction; cross‑entropy
+- instruction tuning; RLHF; in‑context learning
+- substrate independence; generalization; compression
+- normativity; epistemic criteria for “understanding”
+
+Index tags:
+- Searle; Turing; Dennett; Churchlands; Fodor; McCarthy
+- Chinese Room thought experiment
+- LLM era (e.g., GPT‑4)
+
+
+[Chapter 21 — Exponential Maps and Lie Theory]
+Glossary tags:
+- exponential map (analysis, geometry, algebra)
+- Lie group; Lie algebra; one‑parameter subgroup
+- matrix exponential; flow of vector fields
+- Riemannian exponential; geodesic
+- sheaf exponential sequence 0→ℤ→𝒪→𝒪*→1
+- category: exponential object Y^X; adjunction Hom(A×X,Y)≅Hom(A,Y^X)
+- Baker–Campbell–Hausdorff (context)
+- Lawvere fixed‑point (self‑reference via exponentials)
+
+Index tags:
+- Napier; Euler; Lie; Cartan
+- matrix exponentials; BCH formula
+
+
+[Chapter 22 — Minecraft Creeper and Emergence]
+Glossary tags:
+- entity–component systems (ECS)
+- behavior trees; AI goal tasks
+- swapped axes bug; model bounding boxes
+- proximity detonation; radial damage falloff
+- redstone logic; NOT/AND/OR; repeaters; pistons
+- emergent gameplay; bugs‑to‑features
+
+Index tags:
+- Spacewar!; Space Invaders; Pac‑Man ghosts
+- Doom actors; id Tech; Unreal; Unity
+- combos (SFII); rocket jump (Quake); skiing (Tribes)
+- GTA, Silent Hill fog, Smash wavedash
+- Markus Persson (Notch); Mojang; Microsoft acquisition
+
+
+[Chapter 23 — Black Holes: Time Dilation and Redshift]
+Glossary tags:
+- event horizon; Schwarzschild radius r_s=2GM/c^2
+- g_tt redshift factor; gravitational redshift z
+- finite proper infall; coordinate time divergence
+- light‑cone tipping; null surface; photon sphere
+- Kerr rotation; ergosphere (context)
+- white hole; Einstein–Rosen bridge; wormhole (traversability)
+
+Index tags:
+- LIGO gravitational waves; EHT shadow
+- Sagittarius A* stellar orbits
+- Penrose–Hawking theorems; geodesic incompleteness
+- Schwarzschild; Kerr; Wheeler
+
+
+[Chapter 24 — Why 3+1 Dimensions]
+Glossary tags:
+- Gauss law in nD; 1/r^{n−1} fields; 1/r^{n−2} potentials
+- stable Kepler orbits only for n=3
+- Huygens principle (odd n≥3)
+- renormalizability in D=4; φ^4 marginal; gauge couplings dimensionless
+- exotic ℝ^4; Donaldson/Seiberg–Witten; self‑duality F=±*F
+- SO(4)≅(SU(2)×SU(2))/ℤ₂; Λ^2=Λ^2_+⊕Λ^2_−
+- black hole uniqueness (no‑hair) in 4D; higher‑D rings
+
+Index tags:
+- Ehrenfest; Weyl; Whitrow; Dyson–Lenard; Tegmark
+- Gromov perspective; S4→S3; Klein four; SO(4) split
+
+
+[Chapter 25 — Firefly Bioluminescence]
+Glossary tags:
+- luciferin–luciferase reaction; ATP; O2; Mg2+
+- oxyluciferin excited state; 560–590 nm emission
+- photocytes; lantern; uric‑acid reflector
+- nitric‑oxide oxygen gating; tracheoles
+- quantum yield (∼0.4–0.6); photon count per flash (∼10^8–10^9)
+- species flash codes; synchrony; pulse‑coupled oscillators
+- aggressive mimicry (Photuris)
+
+Index tags:
+- Dubois; E. N. Harvey; Bucks; Lloyd; Lewis; Faust; Fallon
+- spectrometric calibration; Ives & Coblentz
+
+
+[Chapter 26 — Jewish Calendar and Authority]
+Glossary tags:
+- molad (29d 12h 44m 3⅓s); Metonic cycle (19y/235mo)
+- leap months; intercalation; dechiyot (Lo ADU, Molad Zaken, GaTRaD, BeTuTaKPaT)
+- Sanhedrin; Nasi; witness testimony; signal fires
+- Hillel II fixed calendar; authority vs astronomy
+- halakhic date line; polar day solutions; astronaut practice
+- “Lo bashamayim hi” (not in heaven)
+
+Index tags:
+- Rabban Gamliel; Rabbi Yehoshua; Rabbi Akiva; Oven of Akhnai
+- Ben Meir vs Saadia Gaon (922 CE)
+- Chazon Ish date line; Mir Yeshiva in Kobe/Shanghai
+
+
+[Chapter 27 — Planetary and Cosmic Colors]
+Glossary tags:
+- Rayleigh scattering (λ⁻⁴); Mie scattering
+- Wien’s law; Planck spectrum; Stefan–Boltzmann law
+- stellar OBAFGKM sequence; metallicity; gravity darkening
+- interstellar reddening; extinction A_λ; R_V
+- emission lines: Hα (656.3 nm), [OIII] (500 nm)
+- methane absorption (Uranus/Neptune); chromophores (Jupiter)
+- true color vs false color; color indices (B−V)
+
+Index tags:
+- Newton prism; Fraunhofer lines; Secchi; Huggins
+- Tyndall; Rayleigh; Kuiper; Cassini; EHT/space probes
+
+
+[Chapter 28 — Negative Temperature Debate]
+Glossary tags:
+- thermodynamic temperature; Kelvin scale; Carnot efficiency
+- kinetic theory; equipartition; ideal gas
+- entropy definitions: Boltzmann S_B, Gibbs S_G
+- inverse temperature β = ∂S/∂E; population inversion
+- bounded spectra (spin systems); inversion; negative β
+- Unruh effect; Hawking temperature (context)
+
+Index tags:
+- Bernoulli; Clausius; Boltzmann; Maxwell; Kelvin; Carnot
+- Purcell & Pound (1951); Ramsey (1956); Dunkel & Hilbert (2014)
+
+
+[Chapter 29 — The Hat Aperiodic Monotile]
+Glossary tags:
+- Euler characteristic χ; regular/Archimedean tilings
+- periodic vs aperiodic tilings; local isomorphism
+- Wang tiles; SFT (shift of finite type); domino problem (undecidable)
+- Penrose tiles; substitution tilings; quasicrystals
+- hat monotile; Spectre (vampire einstein)
+
+Index tags:
+- Berger; Robinson; Penrose; Shechtman
+- David Smith; Kaplan; Myers; Goodman‑Strauss (2023)
+
+
+[Chapter 30 — Simpson’s Paradox and Gerrymandering]
+Glossary tags:
+- weighted averages; subgroup vs aggregate
+- Simpson’s paradox; Yule–Simpson effect
+- efficiency gap; packing and cracking
+- collider bias; Berkson’s paradox; ecological fallacy
+- MAUP; Will Rogers phenomenon; prosecutor’s fallacy
+
+Index tags:
+- Berkeley 1973 admissions; Bickel–Hammel–O’Connell
+- NC/WI 2012 elections; Elbridge Gerry
+- Pearson/Yule/Simpson; Pavlides–Perlman frequency
+
+
+[Chapter 31 — Osmosis, Debye, and Vegard]
+Glossary tags:
+- osmotic permeability P_f; diffusive permeability P_d; hydraulic L_p
+- Fundamental Law: Φ_V = L_p(ΔP − RTΔc_s)
+- Debye interfacial mechanism; Vegard pressure drop
+- virial theorem; interfacial stress; momentum deficit
+- aquaporins; single‑file water; P_f/P_d diagnostics
+- reverse osmosis; asymmetric membranes (Loeb–Sourirajan)
+
+Index tags:
+- Peter Debye; Lars Vegard
+- hydration shell model critique; chemical potential framing
+
+
+[Chapter 32 — Atomic and Nuclear Clocks]
+Glossary tags:
+- SI second (Cs‑133 hyperfine, 9.192631770 GHz)
+- hydrogen maser; rubidium vapor; CSAC
+- optical lattice clocks; magic wavelength; frequency combs
+- relativistic corrections; chronometric geodesy; GPS offsets
+- thorium‑229 nuclear isomer; VUV spectroscopy; Q>10^19
+
+Index tags:
+- TAI; ensemble averaging; proper time
+- sensitivity to constants; dark‑matter networks
+
+
+[Chapter 33 — Gaussian Correlation Inequality]
+Glossary tags:
+- Gaussian measure; concentration on shell (‖X‖≈√n)
+- symmetric convex sets; positive correlation of indicators
+- formulations via Laplace transforms; gamma variables
+- log‑concavity; Brascamp–Lieb (context)
+
+Index tags:
+- Šidák rectangles; special cases
+- Thomas Royen proof; Laplace transform approach
+
+
+[Chapter 34 — Boltzmann Brains]
+Glossary tags:
+- de Sitter horizon; S_dS≈3π/Λ; T_dS∼H/2π
+- entropy fluctuations P∝exp(−ΔS)
+- Poincaré recurrence; eternal inflation; measure problem
+- Page bound; bubble nucleation; youngness problem
+- epistemic paradox; simulated histories
+
+Index tags:
+- Boltzmann; Dyson–Kleban–Susskind; Page; Linde; Vilenkin
+- Gott’s Turing test critique; Copernican principle
+
+
+[Chapter 35 — Trees Made of Air]
+Glossary tags:
+- photosystems I/II; ATP; NADPH
+- Calvin–Benson cycle; Rubisco; triose phosphates
+- cellulose; hemicellulose; lignin; vascular cambium
+- isotope tracing (18O, 14C); O2 from H2O; biomass O from CO2
+- NPP; energy density (16–20 MJ/kg); solar capture 1–3%
+
+Index tags:
+- van Helmont willow experiment
+- Priestley; Ingenhousz; Ruben & Kamen (18O)
+
+
+[Chapter 36 — QFT vs GR]
+Glossary tags:
+- Standard Model symmetries: SU(3)_c × SU(2)_L × U(1)_Y
+- gauge bosons: photon, W±/Z0, gluons; Higgs mechanism
+- renormalizability; UV/IR limits; Planck scale
+- GR: dynamic spacetime metric g_{μν}; Einstein equations
+- cosmological constant problem; vacuum energy
+- black hole information paradox; non‑renormalizable gravity
+
+Index tags:
+- Weinberg; Hawking; string theory; loop quantum gravity
+- background independence vs fixed background
+
+
+[Chapter 37 — Evidence for Dark Matter]
+Glossary tags:
+- flat rotation curves; HI 21‑cm mapping
+- virial theorem masses; σ_v; M_vir ≈ 5σ_v^2R/G
+- gravitational lensing: κ(θ)=Σ/Σ_crit
+- Bullet Cluster; collisionless mass; X‑ray vs lensing offset
+- CMB acoustic peaks; ΛCDM matter fractions
+- NFW halo profile; structure formation simulations
+
+Index tags:
+- Zwicky; Rubin & Ford; Bosma; Ostriker; Peebles
+- WMAP; Planck; Clowe et al. (Bullet Cluster)
+
+
+[Chapter 38 — Christmas Truce 1914]
+Glossary tags:
+- trench warfare; No Man’s Land; fraternization
+- unit war diaries; primary sources; heterogeneity of truces
+- breakfast truces; burial parties; carol singing; gift exchange
+- football myth; command prohibitions; 1915 suppression
+- lieu de mémoire; invention of tradition
+
+Index tags:
+- Ploegsteert/Armentières sectors; Saxon units
+- Frank Richards account; BEF vs German lines
+
+
+[Chapter 39 — Superpermutations]
+Glossary tags:
+- superpermutation minimal length L(n)
+- overlap graph; Hamiltonian path; weights n−ℓ
+- lower bound: n!+(n−1)!+(n−2)!+n−3
+- upper bound (Egan): add (n−3)! term
+- counterexample at n=6 (872 < 873)
+
+Index tags:
+- Anonymous 4chan Poster (2011); Robin Houston (2014)
+- Greg Egan (2018)
+
+
+[Chapter 40 — DNA Sequencing and Assembly]
+Glossary tags:
+- Sanger ddNTP chain termination; gel electrophoresis
+- next‑gen: pyrosequencing; Ion Torrent; homopolymer issue
+- Illumina: reversible terminators; bridge amplification; paired‑end
+- long reads: PacBio SMRT (ZMWs); Oxford Nanopore (ionic current)
+- de Bruijn graphs; k‑mers; Eulerian paths; N50
+
+Index tags:
+- Human Genome Project; Celera; Collins vs Venter
+- Bentley et al. 2008; Pevzner et al. 2001
+
+
+[Chapter 41 — Hough Transform]
+Glossary tags:
+- edge detection; image gradients; thresholded edge map
+- parametric line forms: y=mx+b; normal form ρ=x cosθ + y sinθ
+- accumulator (voting) space; peaks as detections
+- circle/ellipse Hough; parameter dimensionality; complexity
+
+Index tags:
+- Sobel/Prewitt operators; accumulator quantization
+- robust vertical‑line handling via (ρ,θ)
+
+
+[Chapter 42 — Why Ice Is Slippery]
+Glossary tags:
+- hydrogen bonding; Ice Ih hexagonal lattice; density anomaly
+- pressure melting; frictional heating; limits
+- quasi‑liquid layer (QLL); surface undercoordination
+- optimal friction near −7°C (typical skating)
+- AFM; SFG spectroscopy; MD simulations
+
+Index tags:
+- Clausius–Clapeyron; amorphous vs crystalline ice
+- sea‑level aside: land ice vs sea ice; thermal expansion
+
+
+[Chapter 43 — Nearly Flat Universe]
+Glossary tags:
+- spatial curvature: positive/negative/zero; compactness vs curvature
+- ΛCDM; homogeneous and isotropic FRW spaces
+- CMB anisotropies; first acoustic peak ≈1°
+- particle horizon; flatness constraints (|Ω_k|≪1)
+
+Index tags:
+- WMAP; Planck; baryon acoustic oscillations (context)
+- recombination; sound horizon; angular diameter distance
+
+
+[Chapter 44 — The Man in the Iron Mask]
+Glossary tags:
+- lettre de cachet; state/administrative detention
+- fortress prisons (Bastille, Pignerol); Saint‑Mars custody
+- black velvet mask; archival traces; erasure protocols
+- political myth vs record; Voltaire; Dumas
+
+Index tags:
+- Louvois; du Junca register; Marchioly burial
+- revolutionary iconography; abolition (1790)
+
+
+[Chapter 45 — Maxwell’s Demon]
+Glossary tags:
+- entropy S=k_B ln Ω; second law; macrostates vs microstates
+- Landauer’s principle: k_B T ln 2 per bit erasure
+- Bennett resolution; information is physical
+- work‑based vs erasure‑based accounts; reversible computation
+- quantum demons; coherence; decoherence
+
+Index tags:
+- Clausius/Kelvin statements; Liouville’s theorem
+- Maxwell–Boltzmann distribution; Shannon vs thermodynamic entropy
+
+
+[Chapter 46 — Woodward–Hoffmann Rules]
+Glossary tags:
+- molecular orbitals; σ/π and antibonding σ*/π*
+- pericyclic reactions; cyclic electron flow; concerted transition state
+- conservation of orbital symmetry; correlation diagrams
+- electrocyclic reactions: conrotatory vs disrotatory (thermal vs photochemical)
+- cycloadditions: [4+2] allowed thermally; [2+2] forbidden thermally, allowed photochemically
+- sigmatropic shifts; frontier orbitals; HOMO/LUMO; thermal vs photochemical control
+
+Index tags:
+- Woodward; Hoffmann (1965); retinal photoisomerization
+- symmetry operations; Schrödinger invariance; selection rules
+
+
+[Chapter 47 — Observer‑Dependent Vacuum]
+Glossary tags:
+- Minkowski vacuum; Lorentz invariance; timelike Killing vector
+- Bogoliubov transformations; particle number relativity
+- Unruh effect: T_U = ħa/(2πck_B)
+- Hawking radiation: T_H = ħc^3/(8πGMk_B)
+- cosmological particle creation; dynamical Casimir effect
+
+Index tags:
+- Bekenstein–Hawking entropy; information paradox (context)
+- Rindler coordinates; FLRW expansion; SQUID analogues
+
+
+[Chapter 48 — The Three‑Body Problem and Chaos]
+Glossary tags:
+- sensitivity to initial conditions; Lyapunov exponent λ
+- strange attractors; fractal dimension; phase space
+- KAM theorem; invariant tori; islands of stability
+- butterfly effect; weather predictability horizon
+- dissipative vs conservative chaos; recurrence
+
+Index tags:
+- Poincaré; Lorenz attractor; Lagrange points; halo/Lissajous orbits
+- Feigenbaum scaling; period‑doubling route to chaos
+
+
+[Chapter 49 — IVF, mtDNA, and Replacement]
+Glossary tags:
+- IVF/ICSI; blastocyst; trophoblast; inner cell mass
+- mitochondria; mtDNA (37 genes); oxidative phosphorylation
+- heteroplasmy; mtDNA mutation diseases
+- mitochondrial replacement therapy (MRT): spindle transfer; pronuclear transfer
+- NUMTs (nuclear mitochondrial DNA segments) confounding paternal mtDNA claims
+
+Index tags:
+- maternal inheritance; mitophagy; oocyte cytoplasm
+- CCR5/CRISPR “CRISPR babies” ethics and regulation (context)
+
+
+[Chapter 50 — Consciousness (Essays)]
+Glossary tags:
+- anesthesia mechanisms (GABA_A, NMDA, thalamo‑cortical gating)
+- network integration/ignition; perturbational complexity; Φ
+- prion disease (fatal familial insomnia); thalamic degeneration
+- readiness potential (RP); “free won’t”; superdeterminism critique
+- revision‑cost hierarchy; agency vs physics; category error
+
+Index tags:
+- Meyer–Overton rule; ketamine paradox; Libet; Schurger; Fried
+- Global Workspace; IIT; Recurrent Processing (theories)

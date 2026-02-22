@@ -1,0 +1,129 @@
+01_BanachTarskiParadox | Mathematical Foundations of the Banach—Tarski Paradox | Banach, S. & Tarski, A. (1924). Fund. Math. 6
+01_BanachTarskiParadox | Mathematical Foundations of the Banach—Tarski Paradox | Wu, A. (2008). The Banach-Tarski Paradox.
+02_TopologicalInsulators | The Z_2 Topological Invariant | Kane, C. L. & Mele, E. J. (2005). Z_2 Topological Order and the Quantum Spin Hall Effect. Physical Review Letters, 95(14), 146802.
+02_TopologicalInsulators | The Z_2 Topological Invariant | Bernevig, B. A., Hughes, T. L., & Zhang, S.-C. (2006). Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells. Science, 314(5806), 1757--1761.
+03_GoldRelativity | Relativistic Quantum Chemistry and the Color of Gold | Williams, A. O. (1940). A Relativistic Self-Consistent Field for Cu^+. Phys. Rev., 58, 723.
+03_GoldRelativity | Relativistic Quantum Chemistry and the Color of Gold | Mayers, D. F. (1957). Relativistic Self-Consistent Field Calculation for Mercury. Proc. R. Soc. Lond. A, 241, 93.
+03_GoldRelativity | Relativistic Quantum Chemistry and the Color of Gold | Norrby, L. J. (1991). Why Is Mercury Liquid? Or, why do relativistic effects not get into chemistry textbooks? J. Chem. Educ., 68, 110.
+03_GoldRelativity | Relativistic Quantum Chemistry and the Color of Gold | Pyykkö, P., Desclaux, J. P. (1979). Relativity and the periodic system of elements. Acc. Chem. Res., 12 (8), 276-281.
+04_EMFieldsEnergyFlow | Electromagnetic Energy Flow Outside Wires | Feynman, R. P., Leighton, R. B., & Sands, M. (1964). The Feynman Lectures on Physics.
+04_EMFieldsEnergyFlow | Electromagnetic Energy Flow Outside Wires | Baez, J. C., & Muniain, J. P. (1994). Gauge Fields, Knots and Gravity.
+05_CircleWheel | The Phonological Evolution of Labiovelars in the Indo-European Descendants of *kʷékʷlos | Fortson, B. (2010). Indo-European Language and Culture: An Introduction. Wiley-Blackwell.
+05_CircleWheel | The Phonological Evolution of Labiovelars in the Indo-European Descendants of *kʷékʷlos | Ringe, D. (2006). From Proto-Indo-European to Proto-Germanic. Oxford University Press.
+05_CircleWheel | The Phonological Evolution of Labiovelars in the Indo-European Descendants of *kʷékʷlos | Online Etymology Dictionary: https://www.etymonline.com/
+06_GravityTimeDilation | Gravity as Curved Time | Carroll, S. (2004). Spacetime and Geometry: An Introduction to General Relativity.
+06_GravityTimeDilation | Gravity as Curved Time | Peacock, J. (2021). PHYS11010: General Relativity.
+06_GravityTimeDilation | Gravity as Curved Time | Hobson, M. P., Efstathiou, G., & Lasenby, A. N. (2006). General Relativity: An Introduction for Physicists.
+07_BilliardsConicsPorism | Large Poncelet’s Theorem for Two Ellipses | Leopold Flatto, Poncelet's Theorem. Mathematical Surveys and Monographs, Vol. 56. American Mathematical Society, 2009 (beautiful book!)
+07_BilliardsConicsPorism | Large Poncelet’s Theorem for Two Ellipses | For visualization, see https://bit.ly/poporismbit.ly/poporism.
+08_BoundedPrimeGaps | Bounded Gaps Between Primes | Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121–1174.
+08_BoundedPrimeGaps | Bounded Gaps Between Primes | Maynard, J. (2015). Small gaps between primes. Annals of Mathematics, 181(1), 383–413.
+09_ArrowTheoremTopology | Topological Proof of Arrow's Impossibility Theorem | Arrow, K. J. (1963). Social Choice and Individual Values. Wiley.
+09_ArrowTheoremTopology | Topological Proof of Arrow's Impossibility Theorem | Baryshnikov, Y. (1997). Topological and discrete social choice: in a search of a theory. Social Choice and Welfare, 14(2), 199--209.
+09_ArrowTheoremTopology | Topological Proof of Arrow's Impossibility Theorem | Saari, D. G. (1994). Geometry of Voting. Springer.
+10_SolarFusionQuantumTunneling | Quantum Tunneling in Stellar Fusion | Bethe, H. A. (1939). Energy Production in Stars. Phys. Rev., 55, 434–456.
+10_SolarFusionQuantumTunneling | Quantum Tunneling in Stellar Fusion | Clayton, D. D. (1983). Principles of Stellar Evolution and Nucleosynthesis. University of Chicago Press.
+11_AcceleratingUniverse | The Cosmological Constant Problem: Quantum Vacuum Energy vs. Observations | Weinberg, S. (1989). The cosmological constant problem. Rev. Mod. Phys., 61, 1.
+11_AcceleratingUniverse | The Cosmological Constant Problem: Quantum Vacuum Energy vs. Observations | Carroll, S. M. (2001). The cosmological constant. Living Rev. Relativ., 4, 1.
+11_AcceleratingUniverse | The Cosmological Constant Problem: Quantum Vacuum Energy vs. Observations | Padmanabhan, T. (2003). Cosmological constant — the weight of the vacuum. Phys. Rep., 380, 235.
+12_GSMEncryptionOrder | Toy GSM‑Style Frame: How Post‑Encoding XOR Leaks Keystream | Barkan, E.;Biham, E.;Keller, N. "Instant Ciphertext‑Only Cryptanalysis of GSM Encrypted Communication." Journal of Cryptology 21 (3), 392–429 (2008).
+13_PoissonsSpot | Mathematical Analysis of the Arago Spot | Born, M. and Wolf, E. (1999). Principles of Optics, 7th ed. Cambridge University Press.
+13_PoissonsSpot | Mathematical Analysis of the Arago Spot | Feynman, R. P., Leighton, R. B., & Sands, M. (1965). The Feynman Lectures on Physics, Vol. III.
+14_CompactTwinParadox | The Twin Paradox and Chirality in Globally Identified Spacetimes | Misner, C. W., Thorne, K. S., Wheeler, J. A. (1973). Gravitation. Freeman.
+14_CompactTwinParadox | The Twin Paradox and Chirality in Globally Identified Spacetimes | Geroch, R. (1967). J. Math. Phys., 8.
+14_CompactTwinParadox | The Twin Paradox and Chirality in Globally Identified Spacetimes | Isham, C. J. (1989). Modern Differential Geometry for Physicists. World Scientific.
+15_EnvelopeParadox | Resolving the Envelope Paradox | Nalebuff, B. (1989). The Other Person's Envelope Is Always Greener. J. Econ. Persp., 3(1), 171--181.
+16_FalseVacuumThreat | False Vacuum Decay: Mathematical Formulation | Coleman & De Luccia, Phys. Rev. D 21, 3305 (1980).
+16_FalseVacuumThreat | False Vacuum Decay: Mathematical Formulation | Degrassi et al., JHEP 08, 098 (2012).
+17_BigNumbers | Hierarchy of Growth Rates | M. H. Löb and S. S. Wainer, "Hierarchies of number-theoretic functions I/II," Archiv für mathematische Logik und Grundlagenforschung (1970–72).
+17_BigNumbers | Hierarchy of Growth Rates | H. Friedman, "Finite forms of Kruskal's theorem," Journal of Combinatorial Theory, Series A 95, 102–144 (2001).
+18_SpeculativeExecutionAttacks | Spectre and Meltdown: Mechanics and Leakage Rates | Kocher et al. (2018). Spectre Attacks: Exploiting Speculative Execution. arXiv:1801.01203.
+18_SpeculativeExecutionAttacks | Spectre and Meltdown: Mechanics and Leakage Rates | Lipp et al. (2018). Meltdown: Reading Kernel Memory from User Space. USENIX Security.
+19_CosmicRayMuons | Relativistic Lifetimes of Cosmic Muons | Rossi, B., & Hall, D. B., Physical Review, 59(3), 223–228 (1941).
+19_CosmicRayMuons | Relativistic Lifetimes of Cosmic Muons | HyperPhysics Muon Simulation: http://hyperphysics.phy-astr.gsu.edu/hbase/Relativ/muon.html
+20_ChineseRoomArgument | The Epistemic Fragility of Syntax-Only Cognition | Searle, J. R. (1980). Minds, Brains, and Programs. Behavioral and Brain Sciences, 3(3), 417–457.
+20_ChineseRoomArgument | The Epistemic Fragility of Syntax-Only Cognition | Dennett, D. C. (1987). The Intentional Stance. MIT Press.
+20_ChineseRoomArgument | The Epistemic Fragility of Syntax-Only Cognition | Chalmers, D. (1996). The Conscious Mind. Oxford University Press. See Also: https://plato.stanford.edu/entries/chinese-room/
+21_ExponentialMapsLieTheory | Exponentials | Lang (2001). Fund. Diff. Geom. Springer.
+21_ExponentialMapsLieTheory | Exponentials | Hall (2015). Lie Groups, Lie Algebras, and Representations. Springer.
+22_MinecraftCreeper | Swapped Axes and Emergent Behavior: A Minimal Model of the Creeper | Persson, M. (2009). Initial Geometry and Entity Source. Mojang.
+22_MinecraftCreeper | Swapped Axes and Emergent Behavior: A Minimal Model of the Creeper | Minecraft Wiki. (2025). Entity Models and AI Mechanics. https://minecraft.wiki
+23_BlackHoleTimeDilationRedshift | Coordinate Reversal and Causal Geometry | Misner, C. W., Thorne, K. S., Wheeler, J. A. (1973). Gravitation.
+23_BlackHoleTimeDilationRedshift | Coordinate Reversal and Causal Geometry | Carroll, S. M. (2004). Spacetime and Geometry.
+23_BlackHoleTimeDilationRedshift | Coordinate Reversal and Causal Geometry | Wald, R. M. (1984). General Relativity.
+24_FourDSpacetime | Dimensional Force Laws and Renormalizable Interactions | Peskin, M. E., & Schroeder, D. V. (1995). An Introduction to Quantum Field Theory. Addison-Wesley.
+24_FourDSpacetime | Dimensional Force Laws and Renormalizable Interactions | Weinberg, S. (1995). The Quantum Theory of Fields, Vol. I. Cambridge University Press.
+24_FourDSpacetime | Dimensional Force Laws and Renormalizable Interactions | Ehrenfest, P. (1917). In what way does it become manifest in the fundamental laws of physics that space has three dimensions? Proceedings of the Amsterdam Academy.
+24_FourDSpacetime | Dimensional Force Laws and Renormalizable Interactions | Lenard, A., & Dyson, F. J. (1967). Stability of matter I, II. Journal of Mathematical Physics.
+25_FireflyBioluminescence | Bioluminescence Mechanics and Quantification | Harvey, E. N. (1920). The Nature of Animal Light.
+25_FireflyBioluminescence | Bioluminescence Mechanics and Quantification | Wilson, T. & Hastings, J.W. (1998). Bioluminescence. Annu. Rev. Cell Dev. Biol., 14, 197-230.
+25_FireflyBioluminescence | Bioluminescence Mechanics and Quantification | Shimomura, O. (2012). Bioluminescence: Chemical Principles and Methods. World Scientific.
+26_JewishCalendar | Calendar Mathematics | Feldman, W.M. (1931). Rabbinical Mathematics and Chronology.
+26_JewishCalendar | Calendar Mathematics | Stern, S. (2019). The Jewish Calendar Controversy of 921/2.
+26_JewishCalendar | Calendar Mathematics | Lipschitz, Y. (1850). Tiferet Yisrael, Berakhot 1.
+27_PlanetarySkyColors | Quantitative Analysis of Astronomical Color | Rybicki, G. B., & Lightman, A. P. (1979). Radiative Processes in Astrophysics. Wiley.
+27_PlanetarySkyColors | Quantitative Analysis of Astronomical Color | Draine, B. T. (2003). Interstellar Dust Grains. Annual Review of Astronomy and Astrophysics.
+28_NegativeTemp | Statistical Mechanics of Negative Absolute Temperature | Ramsey, N. F. (1956). Thermodynamics and Statistical Mechanics at Negative Absolute Temperatures. Phys. Rev., 103, 20.
+28_NegativeTemp | Statistical Mechanics of Negative Absolute Temperature | Purcell, E. M., Pound, R. V. (1951). A Nuclear Spin System at Negative Temperature. Phys. Rev., 81, 279.
+28_NegativeTemp | Statistical Mechanics of Negative Absolute Temperature | Dunkel, J., Hilbert, S. (2014). Consistent Thermostatistics Forbids Negative Absolute Temperatures. Nat. Phys., 10, 67.
+29_HatMonotile | Allowed Tilings via Local Rules: SFTs, Wang Tiles, and Decidability | Berger, R. (1966). The Undecidability of the Domino Problem. Mem. AMS.
+29_HatMonotile | Allowed Tilings via Local Rules: SFTs, Wang Tiles, and Decidability | Robinson, R. M. (1971). Undecidability and Nonperiodicity for Tilings of the Plane. Invent. Math.
+29_HatMonotile | Allowed Tilings via Local Rules: SFTs, Wang Tiles, and Decidability | Kasteleyn, P. W. (1961–67). Dimer Statistics and Pfaffians. J. Math. Phys., Physica.
+30_SimpsonsParadox | Two Mathematical Realizations of Simpson's Paradox | Simpson, E. H. (1951). J. R. Stat. Soc. B, 13(2), 238–241.
+30_SimpsonsParadox | Two Mathematical Realizations of Simpson's Paradox | Pavlides, M. G., & Perlman, M. D. (2009). J. Stat. Plan. Inference, 139(1), 198–213.
+31_osmosis_Debye | Membrane Forces and Competing Models of Osmotic Flow | Debye, P. (1923). Phys. Z., 24:334--338.
+31_osmosis_Debye | Membrane Forces and Competing Models of Osmotic Flow | Manning, G.S., & Kay, A.R. (2023). The physical basis of osmosis. J. Gen. Physiol., 155: e202313332.
+31_osmosis_Debye | Membrane Forces and Competing Models of Osmotic Flow | Vegard, L. (1908). Proc. Camb. Phil. Soc., 15:13--23.
+31_osmosis_Debye | Membrane Forces and Competing Models of Osmotic Flow | Weiss, T.F. (1996). Cellular Biophysics: Transport. MIT Press.
+31_osmosis_Debye | Membrane Forces and Competing Models of Osmotic Flow | Finkelstein, A. (1987). Water Movement Through Lipid Bilayers, Pores, and Plasma Membranes. Wiley.
+32_AtomicClocks | Quantum Transitions and the Limits of Clock Stability | Ludlow, A. D. et al. (2015). Optical atomic clocks. Rev. Mod. Phys. 87(2), 637–701.
+32_AtomicClocks | Quantum Transitions and the Limits of Clock Stability | Safronova, M. S. et al. (2018). Search for new physics with atomic clocks. Rev. Mod. Phys. 90(2), 025008.
+33_IncubationInequality | Monotonicity via Covariance Interpolation | Royen, T. (2014). A simple proof of the Gaussian correlation conjecture extended to multivariate gamma distributions. Far East J. Theor. Stat.
+33_IncubationInequality | Monotonicity via Covariance Interpolation | Latała, R., Matlak, D. (2017). Royen's Proof of the Gaussian Correlation Inequality. In: Israel Seminar (GAFA) 2014–2016. Springer.
+34_BoltzmannBrain | Entropy Bounds and Fluctuation Probabilities | Dyson, L., Kleban, M., Susskind, L. (2002). Disturbing Implications of a Cosmological Constant.
+34_BoltzmannBrain | Entropy Bounds and Fluctuation Probabilities | Page, D. N. (2006). Is Our Universe Likely to Decay within 20 Billion Years? arXiv:hep-th/0610079.
+35_TreesFromAir | Carbon Fixation and Mass Accumulation in Trees | Farquhar, G. D., von Caemmerer, S., Berry, J. A. (1980). A biochemical model of photosynthetic CO_2 assimilation in C_3 leaves. Planta, 149, 78–90.
+35_TreesFromAir | Carbon Fixation and Mass Accumulation in Trees | Taiz, L., Zeiger, E. (2010). Plant Physiology.
+36_qft_vs_gr | Quantum Gravity: Core Conflicts and Open Questions | Weinberg, S. (1979). Ultraviolet divergences in quantum theories of gravitation. In S. W. Hawking and W. Israel (Eds.), General Relativity: An Einstein Centenary Survey (Cambridge University Press).
+36_qft_vs_gr | Quantum Gravity: Core Conflicts and Open Questions | Kiefer, C. (2012). Quantum Gravity (3rd ed.). Oxford University Press.
+36_qft_vs_gr | Quantum Gravity: Core Conflicts and Open Questions | Goroff, M. H., and Sagnotti, A. (1986). The ultraviolet behavior of Einstein gravity. Nuclear Physics B.
+37_DarkMatterEvidence | Gravitational Inference and the Distribution of Dark Matter | Zwicky, F. (1933). Die Rotverschiebung von extragalaktischen Nebeln. Helv. Phys. Acta, 6, 110--127.
+37_DarkMatterEvidence | Gravitational Inference and the Distribution of Dark Matter | Navarro, J. F., Frenk, C. S., & White, S. D. M. (1997). A Universal Density Profile from Hierarchical Clustering. ApJ, 490, 493--508.
+37_DarkMatterEvidence | Gravitational Inference and the Distribution of Dark Matter | Clowe, D., Bradac, M., Gonzalez, A. H., Markevitch, M., Randall, S. W., Jones, C., & Zaritsky, D. (2006). A Direct Empirical Proof of the Existence of Dark Matter. ApJL, 648, L109--L113.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | Brown, M. (2007). Christmas Truce: The Western Front. Pocket.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | Eksteins, M. (1989). Rites of Spring. Houghton Mifflin.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | Hobsbawm, E. & Ranger, T. (1983). The Invention of Tradition. Cambridge.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | National Archives UK. BEF Unit War Diaries, Dec 1914.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | Nora, P. (1984). Les Lieux de mémoire. Gallimard.
+38_ChristmasTruce1914 | The 1914 Christmas Truce: Documentary Evidence | Weintraub, S. (2001). Silent Night. Plume.
+39_SuperpermutationsBreakthrough | Lower and Upper Bounds via Overlap Graphs | Houston, R. (2014). Obvious Does Not Imply True: The Minimal Superpermutation Conjecture Is False. arXiv:1408.5108.
+39_SuperpermutationsBreakthrough | Lower and Upper Bounds via Overlap Graphs | Egan, G. (2018). Superpermutations (online note).
+39_SuperpermutationsBreakthrough | Lower and Upper Bounds via Overlap Graphs | Anonymous 4chan Poster (2011). Lower bound proof (archived online).
+40_DNASequencing | Illumina Sequencing and De Bruijn Assembly | Bentley et al. (2008). Nature 456:53-59.
+40_DNASequencing | Illumina Sequencing and De Bruijn Assembly | Pevzner et al. (2001). PNAS 98:9748-9753.
+41_HoughTransfrom | Radon, Hough, and the Geometry of Detection | M. van Ginkel, C. L. Luengo Hendriks, and L. J. van Vliet (2004). Introduction to the Radon and Hough transforms and how they relate to each other. TU Delft Technical Report QI-2004-01.
+41_HoughTransfrom | Radon, Hough, and the Geometry of Detection | Gel'fand, I. M., & Shilov, G. E. (1964). Generalized Functions, Vol. I: Properties and Operations. Academic Press.
+42_IceSlipperiness | Thermodynamic and Tribological Origins of Ice Slipperiness | Dash, J. G., Rempel, A. W., & Wettlaufer, J. S. (2006). Rev. Mod. Phys., 78, 695.
+42_IceSlipperiness | Thermodynamic and Tribological Origins of Ice Slipperiness | Slater, B., & Michaelides, A. (2019). Nat. Rev. Chem., 3, 172.
+42_IceSlipperiness | Thermodynamic and Tribological Origins of Ice Slipperiness | Weber, B. et al. (2018). J. Phys. Chem. Lett., 9, 2838.
+43_NearFlatUniverse | Timeline of the Early Universe | Dodelson, S. (2003). Modern Cosmology.
+43_NearFlatUniverse | Timeline of the Early Universe | Kolb, E. W., & Turner, M. S. (1990). The Early Universe.
+44_IronMask | Historical Fiction | Sonnino, P. (2016). The Search for the Man in the Iron Mask. Rowman & Littlefield.
+44_IronMask | Historical Fiction | Voltaire (1751). Le Siècle de Louis XIV.
+44_IronMask | Historical Fiction | Archives Nationales, Série K. (1669–1703).
+44_IronMask | Historical Fiction | du Junca, E. (1703). Journal de la Bastille.
+45_MaxwellDemon | Thermodynamic Accounting in the Classical Szilard Engine | Szilard, L. (1929). On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings. Z. Phys., 53, 840--856.
+45_MaxwellDemon | Thermodynamic Accounting in the Classical Szilard Engine | Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. IBM J. Res. Dev., 5(3), 183--191.
+45_MaxwellDemon | Thermodynamic Accounting in the Classical Szilard Engine | Bennett, C. H. (1982). The Thermodynamics of Computation — A Review. Int. J. Theor. Phys., 21, 905--940.
+46_WoodwardHoffmannRules | Orbital Symmetry | Woodward, R. B., and Hoffmann, R. (1970). The Conservation of Orbital Symmetry. Addison–Wesley.
+47_ObserverDependentVacuum | Technical Derivation of the Unruh Effect | M. Socolovsky, Rindler Space and the Unruh Effect, arXiv:1304.2833 [gr-qc], 2013.
+48_three_body | Perturbative Stability and Exponential Sensitivity in Deterministic Systems | Poincaré, H. (1890). Sur le problème des trois corps et les équations de la dynamique. Acta Mathematica, 13, 1–270.
+48_three_body | Perturbative Stability and Exponential Sensitivity in Deterministic Systems | Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the Atmospheric Sciences, 20(2), 130–141.
+48_three_body | Perturbative Stability and Exponential Sensitivity in Deterministic Systems | Feigenbaum, M. J. (1978). Quantitative universality for a class of nonlinear transformations. Journal of Statistical Physics, 19, 25–52.
+49_IVFmtDNA | Micromanipulation and Mitochondrial Heteroplasmy | Tachibana, M. et al. (2009). Mitochondrial gene replacement in primate offspring and embryonic stem cells. Nature 461, 367–372.
+49_IVFmtDNA | Micromanipulation and Mitochondrial Heteroplasmy | Tachibana, M. et al. (2013). Towards germline gene therapy of inherited mitochondrial diseases. Nature 493, 627–631.
+50_Consciousness | Agency as Axiomatic Ground | Descartes, R. (1641). Meditations on First Philosophy.
+50_Consciousness | Agency as Axiomatic Ground | Kant, I. (1781). Critique of Pure Reason.
+50_Consciousness | Agency as Axiomatic Ground | Reid, T. (1785). Essays on the Intellectual Powers of Man.
+50_Consciousness | Agency as Axiomatic Ground | Hegel, G.W.F. (1807). Phenomenology of Spirit.
+50_Consciousness | Agency as Axiomatic Ground | Chalmers, D. (1995). Facing Up to the Problem of Consciousness.

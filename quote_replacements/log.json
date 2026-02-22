@@ -1,0 +1,254 @@
+{
+  "executed": "2026-02-14T07:54:14.665974",
+  "plan_created": "2026-02-14T07:52:15.564215",
+  "backups": {
+    "01_GoldRelativity/main.tex": "quote_replacements/backups/01_GoldRelativity__main.tex",
+    "02_AcceleratingUniverse/main.tex": "quote_replacements/backups/02_AcceleratingUniverse__main.tex",
+    "03_BanachTarskiParadox/main.tex": "quote_replacements/backups/03_BanachTarskiParadox__main.tex",
+    "05_CircleWheel/main.tex": "quote_replacements/backups/05_CircleWheel__main.tex",
+    "06_GravityTimeDilation/main.tex": "quote_replacements/backups/06_GravityTimeDilation__main.tex",
+    "07_BilliardsConicsPorism/main.tex": "quote_replacements/backups/07_BilliardsConicsPorism__main.tex",
+    "09_ArrowTheoremTopology/main.tex": "quote_replacements/backups/09_ArrowTheoremTopology__main.tex",
+    "11_TopologicalInsulators/main.tex": "quote_replacements/backups/11_TopologicalInsulators__main.tex",
+    "12_GSMEncryptionOrder/main.tex": "quote_replacements/backups/12_GSMEncryptionOrder__main.tex",
+    "13_PoissonsSpot/main.tex": "quote_replacements/backups/13_PoissonsSpot__main.tex",
+    "14_CompactTwinParadox/main.tex": "quote_replacements/backups/14_CompactTwinParadox__main.tex",
+    "15_EnvelopeParadox/main.tex": "quote_replacements/backups/15_EnvelopeParadox__main.tex",
+    "16_FalseVacuumThreat/main.tex": "quote_replacements/backups/16_FalseVacuumThreat__main.tex",
+    "17_BigNumbers/main.tex": "quote_replacements/backups/17_BigNumbers__main.tex",
+    "18_SpeculativeExecutionAttacks/main.tex": "quote_replacements/backups/18_SpeculativeExecutionAttacks__main.tex",
+    "19_CosmicRayMuons/main.tex": "quote_replacements/backups/19_CosmicRayMuons__main.tex",
+    "20_ChineseRoomArgument/main.tex": "quote_replacements/backups/20_ChineseRoomArgument__main.tex",
+    "21_ExponentialMapsLieTheory/main.tex": "quote_replacements/backups/21_ExponentialMapsLieTheory__main.tex",
+    "22_MinecraftCreeper/main.tex": "quote_replacements/backups/22_MinecraftCreeper__main.tex",
+    "23_BlackHoleTimeDilationRedshift/main.tex": "quote_replacements/backups/23_BlackHoleTimeDilationRedshift__main.tex",
+    "24_FourDSpacetime/main.tex": "quote_replacements/backups/24_FourDSpacetime__main.tex",
+    "25_FireflyBioluminescence/main.tex": "quote_replacements/backups/25_FireflyBioluminescence__main.tex",
+    "26_JewishCalendar/main.tex": "quote_replacements/backups/26_JewishCalendar__main.tex",
+    "28_NegativeTemp/main.tex": "quote_replacements/backups/28_NegativeTemp__main.tex",
+    "29_HatMonotile/main.tex": "quote_replacements/backups/29_HatMonotile__main.tex",
+    "30_SimpsonsParadox/main.tex": "quote_replacements/backups/30_SimpsonsParadox__main.tex",
+    "31_osmosis_Debye/main.tex": "quote_replacements/backups/31_osmosis_Debye__main.tex",
+    "32_AtomicClocks/main.tex": "quote_replacements/backups/32_AtomicClocks__main.tex",
+    "33_IncubationInequality/main.tex": "quote_replacements/backups/33_IncubationInequality__main.tex",
+    "34_BoltzmannBrain/main.tex": "quote_replacements/backups/34_BoltzmannBrain__main.tex",
+    "35_TreesFromAir/main.tex": "quote_replacements/backups/35_TreesFromAir__main.tex",
+    "38_ChristmasTruce1914/main.tex": "quote_replacements/backups/38_ChristmasTruce1914__main.tex",
+    "39_SuperpermutationsBreakthrough/main.tex": "quote_replacements/backups/39_SuperpermutationsBreakthrough__main.tex",
+    "40_DNASequencing/main.tex": "quote_replacements/backups/40_DNASequencing__main.tex",
+    "43_NearFlatUniverse/main.tex": "quote_replacements/backups/43_NearFlatUniverse__main.tex",
+    "44_IronMask/main.tex": "quote_replacements/backups/44_IronMask__main.tex",
+    "45_MaxwellDemon/main.tex": "quote_replacements/backups/45_MaxwellDemon__main.tex",
+    "47_ObserverDependentVacuum/main.tex": "quote_replacements/backups/47_ObserverDependentVacuum__main.tex",
+    "48_three_body/main.tex": "quote_replacements/backups/48_three_body__main.tex",
+    "49_IVFmtDNA/main.tex": "quote_replacements/backups/49_IVFmtDNA__main.tex",
+    "50_Consciousness/main.tex": "quote_replacements/backups/50_Consciousness__main.tex"
+  },
+  "results": {
+    "01_GoldRelativity/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "02_AcceleratingUniverse/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "03_BanachTarskiParadox/main.tex": {
+      "planned": 12,
+      "applied": 12,
+      "warnings": []
+    },
+    "05_CircleWheel/main.tex": {
+      "planned": 104,
+      "applied": 104,
+      "warnings": []
+    },
+    "06_GravityTimeDilation/main.tex": {
+      "planned": 2,
+      "applied": 2,
+      "warnings": []
+    },
+    "07_BilliardsConicsPorism/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "09_ArrowTheoremTopology/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "11_TopologicalInsulators/main.tex": {
+      "planned": 4,
+      "applied": 4,
+      "warnings": []
+    },
+    "12_GSMEncryptionOrder/main.tex": {
+      "planned": 4,
+      "applied": 4,
+      "warnings": []
+    },
+    "13_PoissonsSpot/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "14_CompactTwinParadox/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "15_EnvelopeParadox/main.tex": {
+      "planned": 14,
+      "applied": 14,
+      "warnings": []
+    },
+    "16_FalseVacuumThreat/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "17_BigNumbers/main.tex": {
+      "planned": 22,
+      "applied": 22,
+      "warnings": []
+    },
+    "18_SpeculativeExecutionAttacks/main.tex": {
+      "planned": 14,
+      "applied": 14,
+      "warnings": []
+    },
+    "19_CosmicRayMuons/main.tex": {
+      "planned": 2,
+      "applied": 2,
+      "warnings": []
+    },
+    "20_ChineseRoomArgument/main.tex": {
+      "planned": 36,
+      "applied": 36,
+      "warnings": []
+    },
+    "21_ExponentialMapsLieTheory/main.tex": {
+      "planned": 12,
+      "applied": 12,
+      "warnings": []
+    },
+    "22_MinecraftCreeper/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "23_BlackHoleTimeDilationRedshift/main.tex": {
+      "planned": 48,
+      "applied": 48,
+      "warnings": []
+    },
+    "24_FourDSpacetime/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "25_FireflyBioluminescence/main.tex": {
+      "planned": 10,
+      "applied": 10,
+      "warnings": []
+    },
+    "26_JewishCalendar/main.tex": {
+      "planned": 40,
+      "applied": 40,
+      "warnings": []
+    },
+    "28_NegativeTemp/main.tex": {
+      "planned": 12,
+      "applied": 12,
+      "warnings": []
+    },
+    "29_HatMonotile/main.tex": {
+      "planned": 18,
+      "applied": 18,
+      "warnings": []
+    },
+    "30_SimpsonsParadox/main.tex": {
+      "planned": 2,
+      "applied": 2,
+      "warnings": []
+    },
+    "31_osmosis_Debye/main.tex": {
+      "planned": 12,
+      "applied": 12,
+      "warnings": []
+    },
+    "32_AtomicClocks/main.tex": {
+      "planned": 2,
+      "applied": 2,
+      "warnings": []
+    },
+    "33_IncubationInequality/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "34_BoltzmannBrain/main.tex": {
+      "planned": 16,
+      "applied": 16,
+      "warnings": []
+    },
+    "35_TreesFromAir/main.tex": {
+      "planned": 34,
+      "applied": 34,
+      "warnings": []
+    },
+    "38_ChristmasTruce1914/main.tex": {
+      "planned": 12,
+      "applied": 12,
+      "warnings": []
+    },
+    "39_SuperpermutationsBreakthrough/main.tex": {
+      "planned": 4,
+      "applied": 4,
+      "warnings": []
+    },
+    "40_DNASequencing/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "43_NearFlatUniverse/main.tex": {
+      "planned": 6,
+      "applied": 6,
+      "warnings": []
+    },
+    "44_IronMask/main.tex": {
+      "planned": 18,
+      "applied": 18,
+      "warnings": []
+    },
+    "45_MaxwellDemon/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "47_ObserverDependentVacuum/main.tex": {
+      "planned": 8,
+      "applied": 8,
+      "warnings": []
+    },
+    "48_three_body/main.tex": {
+      "planned": 2,
+      "applied": 2,
+      "warnings": []
+    },
+    "49_IVFmtDNA/main.tex": {
+      "planned": 28,
+      "applied": 28,
+      "warnings": []
+    },
+    "50_Consciousness/main.tex": {
+      "planned": 16,
+      "applied": 16,
+      "warnings": []
+    }
+  }
+}

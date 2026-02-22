@@ -1,0 +1,1150 @@
+{
+  "Astronomy & Cosmology": {
+    "big bang theory": [
+      34,
+      37,
+      43
+    ],
+    "black holes": [
+      23
+    ],
+    "cosmic expansion": [
+      11,
+      27,
+      34,
+      36,
+      43,
+      47
+    ],
+    "cosmic inflation": [
+      16,
+      34,
+      43
+    ],
+    "cosmic microwave background": [
+      11,
+      14,
+      34,
+      37,
+      43,
+      47
+    ],
+    "cosmological constant": [
+      11,
+      34,
+      36,
+      43
+    ],
+    "dark energy": [
+      11,
+      34,
+      43
+    ],
+    "dark matter": [
+      31,
+      32,
+      36,
+      37,
+      43,
+      11,
+      34
+    ],
+    "lunar cycles": [
+      26
+    ]
+  },
+  "Biology & Life Sciences": {
+    "anatomy": [
+      14,
+      22,
+      25,
+      46
+    ],
+    "botany": [
+      31,
+      35
+    ],
+    "cellular membranes": [
+      31,
+      50
+    ],
+    "cellular processes": [
+      25,
+      31,
+      35,
+      40,
+      46,
+      49,
+      50
+    ],
+    "developmental biology": [
+      49
+    ]
+  },
+  "Bioluminescence": {
+    "photinus pyralis": [
+      25
+    ],
+    "photocytes": [
+      25
+    ],
+    "photuris": [
+      25
+    ]
+  },
+  "Chemistry": {
+    "bonding": [
+      3,
+      24,
+      35,
+      46
+    ],
+    "homopolymers": [
+      35,
+      40
+    ],
+    "hydrogen bonding": [
+      25,
+      31,
+      42
+    ],
+    "interfacial energy": [
+      42
+    ],
+    "isotope labeling": [
+      35
+    ],
+    "lignin": [
+      35
+    ],
+    "membrane science": [
+      31,
+      40,
+      49,
+      50
+    ],
+    "molecular orbitals": [
+      2,
+      3,
+      25,
+      35,
+      46
+    ]
+  },
+  "Climate & Atmosphere": {
+    "atmospheric conditions": [
+      27,
+      35,
+      38,
+      48
+    ],
+    "cryosphere": [
+      42
+    ],
+    "forecasting": [
+      48
+    ],
+    "oceanography": [
+      42
+    ]
+  },
+  "Computability & Complexity": {
+    "computational complexity": [
+      17,
+      39
+    ],
+    "optimization": [
+      18,
+      20,
+      39
+    ]
+  },
+  "Computer Science": {
+    "algorithms": [
+      8,
+      12,
+      17,
+      18,
+      20,
+      22,
+      39,
+      40,
+      41
+    ],
+    "artificial intelligence": [
+      20,
+      22
+    ],
+    "cryptography": [
+      12,
+      18
+    ],
+    "error correction": [
+      12
+    ],
+    "flash memory": [
+      45
+    ],
+    "gaming": [
+      22
+    ],
+    "global positioning system (gps)": [
+      6,
+      11,
+      32
+    ]
+  },
+  "Condensed Matter Physics": {
+    "band theory": [
+      2,
+      3,
+      25
+    ],
+    "crystallography": [
+      42
+    ],
+    "quantum states": [
+      2,
+      3,
+      4,
+      16,
+      25,
+      28,
+      32,
+      42,
+      46,
+      47
+    ],
+    "quasicrystals": [
+      29
+    ]
+  },
+  "Cryptography & Security": {
+    "attack vectors": [
+      12,
+      18
+    ],
+    "cryptanalysis": [
+      12,
+      18
+    ],
+    "encryption protocols": [
+      12,
+      18
+    ],
+    "telecommunications": [
+      12,
+      32
+    ],
+    "vulnerabilities": [
+      12,
+      18
+    ]
+  },
+  "Dynamical Systems": {
+    "chaos theory": [
+      48
+    ],
+    "control theory": [
+      48
+    ],
+    "oscillators": [
+      10,
+      25,
+      32,
+      48
+    ]
+  },
+  "Electromagnetism": {
+    "fields and forces": [
+      2,
+      4,
+      10,
+      13,
+      16,
+      24,
+      32,
+      36,
+      47
+    ],
+    "optics": [
+      3,
+      7,
+      13,
+      27,
+      40
+    ],
+    "wave propagation": [
+      4,
+      13,
+      24
+    ]
+  },
+  "Evolution": {
+    "extinction": [
+      16
+    ],
+    "great oxygenation event": [
+      35
+    ]
+  },
+  "Game Theory & Voting": {
+    "decision making": [
+      15,
+      38
+    ],
+    "impossibility theorems": [
+      9
+    ],
+    "redistricting": [
+      30
+    ],
+    "social choice theory": [
+      9,
+      15,
+      30
+    ],
+    "voting systems": [
+      9
+    ]
+  },
+  "Gaming & Simulation": {
+    "minecraft": [
+      22
+    ]
+  },
+  "Genetics": {
+    "assembly algorithms": [
+      40
+    ],
+    "human genome project": [
+      40
+    ],
+    "inheritance mechanisms": [
+      49,
+      50
+    ],
+    "mitochondrial dna": [
+      49
+    ],
+    "sequencing technologies": [
+      40,
+      49
+    ]
+  },
+  "Geometry & Topology": {
+    "algebraic geometry": [
+      7,
+      21,
+      41
+    ],
+    "aperiodic patterns": [
+      29
+    ],
+    "curvature": [
+      2,
+      6,
+      14,
+      21,
+      23,
+      36,
+      43
+    ],
+    "differential geometry": [
+      4,
+      6,
+      7,
+      14,
+      21,
+      24,
+      41,
+      47,
+      48
+    ],
+    "dynamical systems": [
+      7,
+      48
+    ],
+    "equidecomposition": [
+      1
+    ],
+    "euclidean geometry": [
+      1,
+      6,
+      14,
+      16,
+      21,
+      41,
+      43
+    ],
+    "invariants": [
+      1,
+      2,
+      7,
+      14,
+      24,
+      46,
+      47,
+      48
+    ],
+    "tilings": [
+      29
+    ]
+  },
+  "Group Theory": {
+    "free group": [
+      1
+    ],
+    "group action": [
+      1,
+      14,
+      21,
+      24,
+      46
+    ],
+    "group cohomology": [
+      21
+    ]
+  },
+  "Image Processing": {
+    "algorithms": [
+      41
+    ],
+    "hough transform": [
+      41
+    ],
+    "line detection": [
+      41
+    ]
+  },
+  "Information Theory": {
+    "communication channels": [
+      12,
+      18
+    ],
+    "data structures": [
+      22,
+      40
+    ],
+    "integrated information theory": [
+      50
+    ],
+    "shannon entropy": [
+      18,
+      20,
+      45
+    ]
+  },
+  "Jewish Calendar & Religion": {
+    "religious law": [
+      26
+    ]
+  },
+  "Linguistics": {
+    "indo-european languages": [
+      5
+    ],
+    "phonology": [
+      5
+    ],
+    "reduplication": [
+      5
+    ],
+    "roots": [
+      5
+    ],
+    "sanskrit": [
+      5
+    ],
+    "semantics": [
+      5,
+      20,
+      49
+    ],
+    "syntax": [
+      5,
+      20
+    ],
+    "writing systems": [
+      5
+    ]
+  },
+  "Materials Science": {
+    "hydration shells": [
+      31
+    ],
+    "structure": [
+      4,
+      25,
+      35,
+      42
+    ],
+    "surface properties": [
+      2,
+      27,
+      31,
+      40,
+      42
+    ]
+  },
+  "Mathematics": {
+    "analysis": [
+      7,
+      8,
+      13,
+      21,
+      28,
+      33,
+      46,
+      48
+    ],
+    "calendar systems": [
+      26
+    ],
+    "combinatorics": [
+      29
+    ],
+    "exponential function": [
+      10,
+      17,
+      19,
+      21
+    ],
+    "factorial function": [
+      21,
+      39
+    ],
+    "formalism & notation": [
+      1,
+      4,
+      6,
+      16,
+      17,
+      21,
+      22,
+      30,
+      39,
+      41,
+      46,
+      47,
+      48
+    ],
+    "foundations of analysis": [
+      1,
+      15,
+      21
+    ],
+    "fourier analysis": [
+      47
+    ],
+    "gamma function": [
+      21,
+      33
+    ],
+    "gradient operators": [
+      41
+    ],
+    "high-dimensional geometry": [
+      24,
+      33,
+      41
+    ],
+    "indicator functions": [
+      33,
+      41
+    ],
+    "logic": [
+      9
+    ],
+    "proof techniques": [
+      9
+    ]
+  },
+  "Neuroscience & Consciousness": {
+    "brain structure": [
+      50
+    ],
+    "cognitive science": [
+      15,
+      20,
+      34
+    ],
+    "instrumentation": [
+      50
+    ],
+    "philosophy of mind": [
+      50
+    ]
+  },
+  "Number Theory": {
+    "algebraic structures": [
+      7,
+      12,
+      39
+    ],
+    "combinatorics": [
+      8,
+      17,
+      39
+    ],
+    "gaps": [
+      8,
+      33
+    ],
+    "goldbach's conjecture": [
+      8
+    ],
+    "green-tao theorem": [
+      8
+    ],
+    "historical number systems": [
+      17
+    ],
+    "notation": [
+      17,
+      39
+    ],
+    "primes": [
+      8,
+      33
+    ]
+  },
+  "Particle Physics": {
+    "electroweak theory": [
+      16,
+      36
+    ],
+    "fine-structure constant": [
+      10,
+      32
+    ],
+    "forces": [
+      10,
+      16,
+      19,
+      36,
+      37,
+      43
+    ],
+    "gauge theory": [
+      4,
+      19,
+      24,
+      36
+    ],
+    "higgs field": [
+      16,
+      36
+    ],
+    "higgs mechanism": [
+      16,
+      36
+    ],
+    "leptons": [
+      10,
+      16,
+      19,
+      36,
+      37,
+      43
+    ]
+  },
+  "Philosophy of Mind": {
+    "causality": [
+      20,
+      36,
+      50
+    ],
+    "consciousness": [
+      20,
+      34,
+      50
+    ],
+    "epistemology": [
+      13,
+      15,
+      20,
+      34,
+      49,
+      50
+    ],
+    "free will": [
+      50
+    ],
+    "generalization": [
+      20
+    ],
+    "intentionality": [
+      20
+    ],
+    "logic": [
+      15,
+      20,
+      50
+    ]
+  },
+  "Physics": {
+    "experimental techniques": [
+      2,
+      3,
+      6,
+      10,
+      13,
+      19,
+      25,
+      27,
+      28,
+      32,
+      35,
+      37,
+      40,
+      42,
+      47,
+      49
+    ],
+    "fick's law": [
+      31
+    ],
+    "fundamental constants": [
+      3,
+      4,
+      6,
+      10,
+      11,
+      14,
+      16,
+      27,
+      28,
+      32,
+      34,
+      36,
+      42,
+      45,
+      47
+    ],
+    "hamiltonian dynamics": [
+      11,
+      48
+    ],
+    "localization": [
+      2,
+      3
+    ],
+    "measurement": [
+      1,
+      2,
+      4,
+      10,
+      11,
+      13,
+      16,
+      25,
+      27,
+      28,
+      31,
+      32,
+      33,
+      34,
+      35,
+      37,
+      45,
+      47,
+      48,
+      50
+    ],
+    "nonlinear dynamics": [
+      7,
+      48
+    ],
+    "nuclear fusion": [
+      10,
+      11
+    ],
+    "phonons": [
+      2,
+      4,
+      42
+    ],
+    "pressure melting": [
+      42
+    ]
+  },
+  "Probability & Statistics": {
+    "distributions": [
+      7,
+      8,
+      10,
+      15,
+      20,
+      27,
+      28,
+      33,
+      37,
+      45,
+      47
+    ],
+    "equidistribution": [
+      7,
+      8
+    ],
+    "error and bias": [
+      7,
+      20,
+      30,
+      32,
+      40,
+      41,
+      48,
+      49
+    ],
+    "expected value": [
+      15,
+      30,
+      33,
+      47
+    ],
+    "gaussian distribution": [
+      33,
+      48
+    ],
+    "measure theory": [
+      1,
+      7,
+      15,
+      21,
+      33
+    ],
+    "methodology": [
+      14,
+      15,
+      20,
+      30,
+      40
+    ],
+    "paradoxes": [
+      15,
+      28,
+      30,
+      34,
+      36
+    ]
+  },
+  "Quantum Mechanics": {
+    "None": [
+      10
+    ],
+    "emission": [
+      25,
+      27,
+      32,
+      47
+    ],
+    "exclusion principle": [
+      2,
+      3,
+      4,
+      11,
+      24,
+      46
+    ],
+    "interference": [
+      13,
+      32,
+      46
+    ],
+    "nuclear clocks": [
+      32
+    ],
+    "phase space": [
+      34,
+      45
+    ],
+    "phases": [
+      2,
+      13,
+      16,
+      46
+    ],
+    "photoelectric effect": [
+      13
+    ],
+    "qed": [
+      13,
+      24,
+      36
+    ]
+  },
+  "Relativity": {
+    "None": [
+      4
+    ],
+    "black hole metrics": [
+      6,
+      24,
+      28,
+      36,
+      47
+    ],
+    "equivalence principle": [
+      6,
+      14,
+      47
+    ],
+    "event horizon": [
+      6,
+      28,
+      34,
+      36,
+      47
+    ],
+    "general relativity": [
+      6,
+      11,
+      14,
+      16,
+      23,
+      24,
+      28,
+      32,
+      34,
+      36,
+      37,
+      43,
+      47
+    ],
+    "geodesics": [
+      6,
+      14,
+      36,
+      43
+    ],
+    "gravitational waves": [
+      6
+    ],
+    "gravity darkening": [
+      27
+    ],
+    "length contraction": [
+      3,
+      19
+    ],
+    "special relativity": [
+      14
+    ]
+  },
+  "Scientists & Mathematicians": {
+    "amp\u00e8re andr\u00e9-marie": [
+      4
+    ],
+    "archimedes": [
+      17,
+      42
+    ],
+    "aristotle": [
+      43
+    ],
+    "boltzmann ludwig": [
+      4,
+      10,
+      27,
+      28,
+      31,
+      34,
+      45
+    ],
+    "descartes ren\u00e9": [
+      50
+    ],
+    "dyson freeman": [
+      24
+    ],
+    "einstein albert": [
+      4,
+      6,
+      11,
+      14,
+      19,
+      36,
+      43,
+      47
+    ],
+    "erd\u0151s paul": [
+      8
+    ],
+    "euler leonhard": [
+      8,
+      21
+    ]
+  },
+  "Set Theory & Logic": {
+    "feferman-sch\u00fctte ordinal": [
+      17
+    ],
+    "hilbert's tenth problem": [
+      8
+    ],
+    "infinity": [
+      1,
+      8,
+      15,
+      17,
+      43
+    ],
+    "large cardinals": [
+      17
+    ],
+    "paradoxes": [
+      1,
+      15,
+      17,
+      21,
+      50
+    ]
+  },
+  "Social Science": {
+    "choice theory": [
+      15
+    ],
+    "history": [
+      12,
+      38,
+      39,
+      44
+    ],
+    "sociology": [
+      7,
+      15,
+      30,
+      33,
+      38,
+      39,
+      44,
+      49
+    ]
+  },
+  "Symmetry": {
+    "breaking": [
+      2,
+      14,
+      16,
+      36,
+      42,
+      47
+    ],
+    "groups": [
+      1,
+      16,
+      21,
+      24,
+      36,
+      39,
+      46,
+      47
+    ]
+  },
+  "Thermodynamics": {
+    "black hole thermodynamics": [
+      28,
+      36,
+      47
+    ],
+    "black-body radiation": [
+      25,
+      27,
+      28,
+      43,
+      47
+    ],
+    "entropy": [
+      28,
+      31,
+      32,
+      34,
+      42,
+      45,
+      47
+    ],
+    "heat flow": [
+      4,
+      28,
+      42,
+      45
+    ],
+    "heat transfer": [
+      4,
+      10,
+      45
+    ],
+    "ideal gas": [
+      28,
+      31,
+      37,
+      48
+    ]
+  },
+  "Time & Measurement": {
+    "atomic clocks": [
+      6,
+      32
+    ],
+    "calendars": [
+      26
+    ],
+    "measurement": [
+      6,
+      14,
+      18,
+      19,
+      25,
+      28,
+      32,
+      48
+    ],
+    "physics of time": [
+      6,
+      14,
+      16,
+      19,
+      32,
+      34,
+      36,
+      45,
+      47,
+      48
+    ]
+  },
+  "Wave Physics & Optics": {
+    "diffraction": [
+      13
+    ],
+    "huygens' principle": [
+      13,
+      24
+    ],
+    "poynting vector": [
+      4
+    ],
+    "propagation": [
+      4,
+      10,
+      13,
+      16,
+      24
+    ],
+    "radiative transfer": [
+      10,
+      27
+    ],
+    "refraction": [
+      13
+    ],
+    "scattering": [
+      4,
+      10,
+      13,
+      27,
+      42,
+      43
+    ]
+  }
+}

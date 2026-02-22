@@ -1,0 +1,511 @@
+=== 01_GoldRelativity/ ===
+\begin{flushright}
+\emph{“All that is gold does not glitter,\\not all those who wander are lost;\\the old that is strong does not wither,\\deep roots are not reached by the frost.”}\\
+ — J.R.R. Tolkien, 1954
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“All that glitters may not be gold,\\but at least it contains free electrons.”}\\
+ — John Desmond Bernal, 1962
+\end{flushright}
+
+
+=== 02_AcceleratingUniverse/ ===
+\begin{flushright}
+\emph{“The simplest calculation involves summing the quantum mechanical zero-point energies of all the fields known in Nature. This gives an answer about 120 orders of magnitude higher than the upper limits on \(\Lambda\) set by cosmological observations. This is probably the worst theoretical prediction in the history of physics! Nobody knows how to make sense of this result. Some physics mechanism must exist that makes the cosmological constant very small.”}\\
+— Hobson, Efstathiou \& Lasenby, 2006
+\end{flushright}
+
+=== 03_BanachTarskiParadox/ ===
+\begin{flushright}
+\emph{„Das ist nicht Mathematik, das ist Theologie!”} \\
+(“This is not mathematics, this is theology!”) \\
+— Paul Gordan, protesting Hilbert’s use of non-constructive existence proofs
+\end{flushright}
+\vspace{2em}
+
+\begin{flushright}
+\emph{„... auch die Theologie hat ihre Verdienste.”} \\
+(“... even theology has its merits.”) \\
+— David Hilbert’s reply, defending non-constructive reasoning
+\end{flushright}
+
+
+=== 04_EMFieldsEnergyFlow/ ===
+\begin{flushright}
+\emph{“Electricity is actually made up of extremely tiny particles called electrons, that you cannot see with the naked eye unless you have been drinking.”}\\
+— Dave Barry, 1998
+\end{flushright}
+
+=== 05_CircleWheel/ ===
+\begin{flushright}
+\emph{“English isn't a language, it's three languages stacked on top of each other wearing a trenchcoat.”}\\
+— Various Attributions
+\end{flushright}
+
+=== 06_GravityTimeDilation/ ===
+\begin{flushright}
+\emph{“Spacetime tells matter how to move; matter tells spacetime how to curve.”}\\
+— John Archibald Wheeler, 1962
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“We have ways of making people talk… by giving them fresh apple slices.”}\\
+— Kenneth Parcell, 2010
+\end{flushright}
+
+
+=== 07_BilliardsConicsPorism/ ===
+\begin{flushright}
+\emph{« La mathématique est l’art de donner le même nom à des choses différentes. »} \\
+(“Mathematics is the art of giving the same name to different things.”) \\
+ — Henri Poincaré, 1908
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“Algebra is the offer made by the devil to the mathematician. The devil says: I will give you this powerful machine, it will answer any question you like. All you need to do is give me your soul: give up geometry and you will have this marvelous machine.”}\\
+ — Michael Atiyah, 2001
+\end{flushright}
+
+=== 08_BoundedPrimeGaps/ ===
+\begin{flushright}
+\emph{“If I were to awaken after having slept \\
+for a thousand years, \\
+my first question would be: \\
+has the Riemann Hypothesis been proven?”}\\
+— David Hilbert, 1900
+\end{flushright}
+
+
+=== 09_ArrowTheoremTopology/ ===
+\begin{flushright}
+\emph{“Democracy is the worst form of government, except for all those other forms that have been tried from time to time.”}\\
+— Winston Churchill, 1947
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“People like Coldplay and voted for the Nazis. You can't trust people, Jeremy.”}\\
+— Mark Corrigan, 2007
+\end{flushright}
+
+
+=== 10_SolarFusionQuantumTunneling/ ===
+\begin{flushright}
+\emph{«ὁ ἥλιος ἐστὶ λίθος πυρώδης, μείζων τῆς Πελοποννήσου.»} \\
+(“The Sun is a fiery mass, larger than the Peloponnesus.”)\\
+ — Anaxagoras (c.450 BC)
+\end{flushright}
+
+
+=== 11_TopologicalInsulators/ ===
+\begin{flushright}
+\emph{“In these days the angel of topology and the devil of abstract algebra fight for the soul of each individual mathematical domain.”}\\
+ — Hermann Weyl, 1939
+\end{flushright}
+
+
+=== 12_GSMEncryptionOrder/ ===
+\begin{flushright}
+\emph{“I just found out that my cellular telephone was a lemon.”}\\
+ — Tobias Fünke, 2004
+\end{flushright}
+
+
+=== 13_PoissonsSpot/ ===
+\begin{flushright}
+\emph{“Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.”}\\
+— Mark Twain, 1897
+\end{flushright}
+
+
+=== 14_CompactTwinParadox/ ===
+\begin{flushright}
+\emph{“Time is an illusion. Lunchtime doubly so.”}\\
+— Douglas Adams, 1979
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“I'm not a creative type like you with your work sneakers and your left-handedness.”}\\
+— Jack Donaghy, 2008
+\end{flushright}
+
+=== 15_EnvelopeParadox/ ===
+\begin{flushright}
+\emph{“How wonderful that we have met with a paradox; now we have some hope of making progress.”}\\
+— Niels Bohr, ~1958
+\end{flushright}
+
+
+=== 16_FalseVacuumThreat/ ===
+\begin{flushright}
+\emph{“Darling, there's a place for us,\\
+Can we go, before I turn to dust?”}\\
+— Joanna Newsom, 2006
+\end{flushright}
+
+\vspace{2em}
+
+\begin{flushright}
+\begin{hebrew}
+\emph{”כִּי הִנֵּה הַיּוֹם בָּא בֹּעֵר כַּתַּנּוּר וְהָיוּ כָל זֵדִים וְכָל עֹשֵׂה רִשְׁעָה קַשׁ וְלִהַט אֹתָם הַיּוֹם הַבָּא אָמַר ה צְבָאוֹת„} \\
+\end{hebrew}
+(“For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the Lord ...”) \\
+— Malachi, c. 400 BCE
+\end{flushright}
+
+
+=== 17_BigNumbers/ ===
+
+\begin{flushright}
+\emph{„Das Unendliche hat wie keine andere Frage von jeher so tief das Gemüt der Menschen bewegt... Aus dem Paradies, das Cantor uns geschaffen, soll uns niemand vertreiben können.“} \\
+(“The infinite! No other question has ever moved so profoundly the spirit of man... Cantor's paradise, from which no one will expel us.”) \\
+— David Hilbert, 1926
+\end{flushright}
+
+
+=== 18_SpeculativeExecutionAttacks/ ===
+\begin{flushright}
+\emph{“Be wary of anyone who claims to be able to see the future.”}\\
+ — Wit to Shallan, Rosharan year 1174
+\end{flushright}
+
+
+=== 19_CosmicRayMuons/ ===
+\begin{flushright}
+\emph{“Who ordered that?”}\\
+ — I.I.~Rabi, 1936
+\end{flushright}
+
+
+=== 20_ChineseRoomArgument/ ===
+\begin{flushright}
+\emph{“Words are the only bullets in truth's bandolier. And poets are the snipers.”}\\
+— Martin Silenus, circa 2850 A.D.
+\end{flushright}
+
+
+=== 21_ExponentialMapsLieTheory/ ===
+\begin{flushright}
+\emph{“The rate of increase of inflation is decreasing.”}\\
+— Richard Nixon \textit{(i.e., } $\frac{d^3}{dt^3}[\text{Purch. Power}] > 0$ \textit{, a kind of economic jerk).}
+\end{flushright}
+
+\begin{flushright}
+\emph{“This was the first time a sitting president used the third derivative to advance his case for reelection.”}\\
+— Hugo Rossi, 1996
+\end{flushright}
+
+
+=== 22_MinecraftCreeper/ ===
+\begin{flushright}
+\emph{“Once you've got a task to do, it's better to do it than live with the fear of it.”}\\
+ — Logen Ninefingers, 575 AU
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.”}\\
+— Tom Cargill, 1985
+\end{flushright}
+
+
+=== 23_BlackHoleTimeDilationRedshift/ ===
+\begin{flushright}
+\emph{“So much universe, and so little time.”}\\
+— Cohen the Barbarian, AM 1980s
+\end{flushright}
+
+=== 24_FourDSpacetime/ ===
+\begin{flushright}
+\emph{“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.”}\\
+— Eugene Wigner, 1960
+\end{flushright}
+
+
+=== 25_FireflyBioluminescence/ ===
+\begin{flushright}
+\emph{« Arithmétique! algèbre! géométrie! trinité grandiose! triangle lumineux! Celui qui ne vous a pas connues est un insensé! »} \\
+(“Arithmetic! Algebra! Geometry! Grandiose trinity! Luminous triangle! Whoever has not known you is without sense!”) \\
+— Comte de Lautréamont, 1869
+\end{flushright}
+
+
+
+
+
+=== 26_JewishCalendar/ ===
+
+\begin{flushright}
+\begin{hebrew}
+\emph{”וכ״כ יש להסתפק במי שקרה לו שיבא בקיץ סמוך להנארדפאל. ששם יש איזה חדשים רצופים בקיץ יום ממש... לצוד התנינים הגדולים... מתי ישבות שבתו...„}\\
+\end{hebrew}
+(“What about someone who comes in summer near the North Pole, where for several continuous months it is actual daytime... to hunt the great whales — determine his prayer times and Shabbat...”)\\
+— Rabbi Yisrael Lipschitz, c. 1850
+\end{flushright}
+
+=== 27_PlanetarySkyColors/ ===
+\begin{flushright}
+\emph{“Oh, I'm sorry. Well, I could put the trash into a landfill where it's going to stay for millions of years, or I could burn it up and get a nice smoky smell in here and let that smoke go into the sky where it turns into stars.”}\\
+--- Charlie Kelly
+\end{flushright}
+
+\begin{flushright}
+\emph{“That doesn't sound right, but I don't know enough about stars to dispute it.”}\\
+--- Mac
+\end{flushright}
+
+
+=== 28_NegativeTemp/ ===
+\begin{flushright}
+\emph{“Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life.”}\\
+ — Solid Jackson, Year of the Justifiably Defensive Lobster, 1988 UC
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“Winter is coming.”}\\
+ — Eddard Stark, 298 AC
+\end{flushright}
+
+
+=== 29_HatMonotile/ ===
+\begin{flushright}
+\emph{“There is something in such laws that takes the breath away. They are not discoveries or inventions of the human mind, but exist independently of us. In a moment of clarity, one can at most discover that they are there and take them into account. Long before there were people on the earth, crystals were already growing in the earth's crust. On one day or another, a human being first came across such a sparkling morsel of regularity lying on the ground or hit one with his stone tool and it broke off and fell at his feet, and he picked it up and regarded it in his open hand, and he was amazed.”}\\
+ — M.~C.~Escher, 1973
+\end{flushright}
+
+
+=== 30_SimpsonsParadox/ ===
+\begin{flushright}
+\emph{“If you torture the data long enough, it will confess to anything”}\\
+— Ronald H. Coase
+\end{flushright}
+
+=== 31_osmosis_Debye/ ===
+
+\begin{flushright}
+    \emph{“I learned from admiration and osmosis.”}\\
+    — Joni Mitchell
+\end{flushright}
+
+=== 32_AtomicClocks/ ===
+\begin{flushright}
+\emph{“Zeit ist das, was man an der Uhr abliest.”} \\
+(“Time is what a clock measures.”) \\
+— Albert Einstein, 1926
+\end{flushright}
+
+
+=== 33_IncubationInequality/ ===
+\begin{flushright}
+\emph{« Tout le monde y croit cependant, me disait un jour M. Lippmann, car les expérimentateurs s'imaginent que c'est un théorème de mathématiques, et les mathématiciens que c'est un fait expérimental. »} \\
+(“Everyone believes in it, Mr. Lippmann told me one day, because experimentalists imagine it is a mathematical theorem, and mathematicians that it is an experimental fact.”) \\
+— Henri Poincaré, 1912
+\end{flushright}
+
+
+=== 34_BoltzmannBrain/ ===
+\begin{flushright}
+\emph{“Thoroughly conscious ignorance is the prelude to every real advance in science.”}\\
+— James Clerk Maxwell, 1877
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\begin{hebrew}
+\emph{”הֲבֵל הֲבָלִים אָמַר קֹהֶלֶת, הֲבֵל הֲבָלִים הַכֹּל הָבֶל.„} \\
+\end{hebrew}
+\emph{(“Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.”)}\\
+— Ecclesiastes 1:2
+\end{flushright}
+
+
+
+
+=== 35_TreesFromAir/ ===
+\begin{flushright}
+\emph{“I am the Lorax and I speak for the trees.”}\\
+ — The Lorax
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“It is not the deer that is crossing the road, rather it is the road that is crossing the forest.”}\\
+    — Muhammad Ali \textit{(probably misattributed)}
+\end{flushright}
+
+=== 36_qft_vs_gr/ ===
+\begin{flushright}
+\emph{„Ich bin überzeugt, dass der Alte nicht würfelt.“}\\
+\emph{(“I am convinced that God does not play dice.”)}\\
+— Albert Einstein, 1926
+\end{flushright}
+
+\vspace{2em}
+
+\begin{flushright}
+\emph{„Hör auf, Gott vorzuschreiben, was er zu tun hat!“}\\
+\emph{(“Stop telling God what to do!”)}\\
+— Niels Bohr, circa 1927
+\end{flushright}
+
+
+=== 37_DarkMatterEvidence/ ===
+\begin{flushright}
+\begin{hebrew}
+\emph{”נְטֵ֤ה יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ֥יהִי חֹ֖שֶׁךְ עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֹֽשֶׁךְ„} \\
+\end{hebrew}
+(“...darkness spreads over Egypt — darkness that can be felt”) \\
+— Exodus 10:21
+\end{flushright}
+
+
+=== 38_ChristmasTruce1914/ ===
+\begin{flushright}
+\emph{“I shouted to our enemies that we didn’t wish to shoot and that we make a Christmas truce... Then a man came out of the trenches and I on my side did the same and so we came together and we shook hands — a bit cautiously!”}\\
+— Captain Josef Sewald, 17\textsuperscript{th} Bavarian Regiment
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“You should laugh every moment you live, for you'll find it decidedly difficult afterwards.”}\\
+— Nicomo Cosca, Year 580 AU
+\end{flushright}
+
+
+=== 39_SuperpermutationsBreakthrough/ ===
+\begin{flushright}
+\emph{“Why should I refuse a good dinner simply because I don't understand the digestive processes involved.”}\\
+ — Oliver Heaviside, 1893
+\end{flushright}
+
+=== 40_DNASequencing/ ===
+\begin{flushright}
+\emph{“Would I have invented PCR if I hadn’t taken LSD? I seriously doubt it. I could sit on a DNA molecule and watch the polymers go by. I learned that partly on psychedelic drugs.”}\\
+— Kary Mullis, 1998
+\end{flushright}
+
+=== 41_HoughTransfrom/ ===
+\begin{flushright}
+\emph{“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”}\\
+— John von Neumann, circa 1953
+\end{flushright}
+
+\vspace{0.5em}
+
+
+\begin{tikzpicture}[x=0.01cm,y=0.01cm]  
+  \draw[smooth, domain=0:360, variable=\t, samples=400]
+    plot
+      ({-60*cos(\t) + 30*sin(\t) - 8*sin(2*\t) + 10*sin(3*\t)},
+       { 50*sin(\t) + 18*sin(2*\t) - 12*cos(3*\t) + 14*cos(5*\t)});
+\end{tikzpicture}
+\vspace{0.5em}
+
+\begin{flushright}
+\emph{A curve found in 2010 as shown above.}\\
+\emph{The curve can be fitted with four parameters. A fifth point can be added to form the elephant's eye and allows the trunk to move.}
+\\
+— Jürgen Mayer, Khaled Khairy, Jonathon Howard, 2010
+\end{flushright}
+
+
+=== 42_IceSlipperiness/ ===
+\begin{flushright}
+\emph{“Oh, you know what I want? Ice cream. Do you guys have that here? Ice cream? Oh, it’s so good, you have to get it. It’s like scoops and it comes on a cone. Do you have that here?”}\\
+— Andy Dwyer, 2012
+\end{flushright}
+
+
+=== 43_NearFlatUniverse/ ===
+\begin{flushright}
+\emph{“The truth is like salt. Men want to taste a little, but too much makes everyone sick.”}\\
+ — The Dogman, 584 AU
+\end{flushright}
+
+
+=== 44_IronMask/ ===
+% Quote Section
+\begin{flushright}
+    \emph{“I swear I way more than half believe it when I say, \\
+    That somewhere love and justice shine\\
+    Cynicism falls asleep,\\
+    Tyranny talks to itself.”} \\
+    — The Weakerthans, 1997
+\end{flushright}
+
+=== 45_MaxwellDemon/ ===
+\begin{flushright}
+\emph{« Seul un être aux sens infiniment subtils, tel que le démon de Maxwell, pourrait démêler cet écheveau embrouillé et remonter le cours de l’univers. »} \\  
+(“Only a being with infinitely subtle senses, such as Maxwell’s demon, could unravel this tangled skein and reverse the course of the universe.”) \\
+ — Poincaré (1902)
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+    \emph{“Oh, ye seekers after perpetual motion, how many vain chimeras have you pursued? Go and take your place with the alchemists!”} \\
+    — Da Vinci, 1500s
+\end{flushright}
+
+
+=== 46_WoodwardHoffmannRules/ ===
+\begin{flushright}
+\emph{“Coming back to where you started is not the same as never leaving.”}\\
+ — Tiffany Aching, Year of the Signifying Frog, AM 2008
+\end{flushright}
+
+=== 47_ObserverDependentVacuum/ ===
+\begin{flushright}
+\emph{“Vacuum voco locum omnem in quo corpora sine resistentia movetur.”} \\
+(“Vacuum I call every place in which a body is able to move without resistance.”) \\
+— Sir Isaac Newton, 1713
+\end{flushright}
+
+\vspace{2em}
+
+\begin{flushright}
+\emph{“Vacuum est res rationi repugnans.”} \\
+(“A vacuum is repugnant to reason.”) \\
+— René Descartes, 1644
+\end{flushright}
+
+
+=== 48_three_body/ ===
+% Quote Section
+\begin{flushright}
+\emph{« Pourquoi les chutes de pluie, les tempêtes elles-mêmes nous semblent-elles arriver au hasard, de sorte que bien des gens trouvent tout naturel de prier pour avoir la pluie ou le beau temps, alors qu'ils jugeraient ridicules de demander une éclipse par une prière ? »} \\
+(“Why is it that showers and even storms seem to come by chance, so that many people think it quite natural to pray for rain or fine weather, though they would consider it ridiculous to ask for an eclipse by prayer?”) \\
+— Henri Poincaré, 1908
+\end{flushright}
+\vspace{2em}
+\begin{flushright}
+\emph{“Let the Lord of Chaos rule.”}\\
+ — Semirhage, 1000 NE
+\end{flushright}
+
+=== 49_IVFmtDNA/ ===
+
+\begin{flushright}
+\emph{“Who in the world am I? Ah, that’s the great puzzle!”} \\
+— Alice, 1865
+\end{flushright}
+
+\medskip
+
+\begin{flushright}
+\emph{“It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material.”} \\
+— James D. Watson and Francis H. Crick, 1953
+\end{flushright}
+
+=== 50_Consciousness/ ===
+\begin{flushright}
+    \textarabic{«الاعتقاد ليس هو المعنى المقصود، بل المعنى المتصور في النفس»}
+
+\vspace{0.3em}
+\emph{(“Belief is not the utterance, but the conception in the soul.”)}\\
+— Maimonides, circa 1191 CE
+\end{flushright}
+
+\vspace{2em}
+
+\begin{flushright}
+\emph{“Reason will prevail.”}\\
+— The Gang, 2008
+\end{flushright}
+
+
+

@@ -1,0 +1,47 @@
+\begin{technical}
+
+{\Large\textbf{Gravity as Curved Time}}
+
+\textbf{Spacetime Curvature and Geodesics.}  
+In general relativity, the metric tensor \( g_{\mu\nu} \) encodes the geometry of spacetime and determines how distances and time intervals are measured. In the absence of gravity, spacetime is described by the Minkowski metric \( \eta_{\mu\nu} \). In the weak-field, static limit near a spherically symmetric mass, deviations from flatness are captured by small corrections to the metric. 
+
+Define the Newtonian potential \( \Phi = -GM/r \). In dimensionless form, write \( \epsilon = -\Phi/c^2 = GM/(c^2 r) = r_s/(2r) \), where \( r_s = 2GM/c^2 \). 
+Using the \( (-,+,+,+) \) signature, the Schwarzschild solution reduces to: \( g_{00} \approx -(1 - 2\epsilon) \) and \( g_{rr} \approx 1 + 2\epsilon \).
+Here, \( g_{00} \) governs the time dilation for stationary observers, while \( g_{rr} \) affects spatial distance measurements in the radial direction.
+
+\textbf{Gravitational Time Dilation.}  
+Proper time \( \mathrm{d}\tau \) for a stationary observer at radius \( r \) is related to coordinate time \( \mathrm{d}t \) via: \( \mathrm{d}\tau = \sqrt{-g_{00}}\, \mathrm{d}t \approx (1 - \epsilon) \mathrm{d}t \).
+This shows that clocks at lower altitude accumulate less proper time per unit coordinate time.
+
+\textbf{Gravitational Acceleration from \( g_{00} \).}
+In the Newtonian limit, the geodesic equation for a slowly moving particle gives radial acceleration: \( a^r \approx -c^2 \Gamma^r_{00} \), where \( \Gamma^r_{00} = -\frac{1}{2} g^{rr} \frac{\partial g_{00}}{\partial r} \approx \frac{\epsilon}{r} \).
+Thus \( a^r \approx -c^2 \frac{\epsilon}{r} = -\frac{GM}{r^2} \).
+The negative sign indicates inward acceleration. This reproduces Newton's law of gravitation as the leading-order effect of time curvature in the weak-field limit.
+
+\textbf{Christoffel Symbols and the Effect of \( g_{rr} \).}  
+To compare with spatial curvature, we evaluate the Christoffel symbols. For a static, diagonal metric, they are: \( \Gamma^r_{00} = -\frac{1}{2} g^{rr} \frac{\partial g_{00}}{\partial r} \) and \( \Gamma^r_{rr} = \frac{1}{2} g^{rr} \frac{\partial g_{rr}}{\partial r} \).
+Using the approximations \( g_{rr} \approx 1 + 2\epsilon \), hence \( g^{rr} \approx 1 - 2\epsilon \), we compute:
+\begin{align*}
+\frac{\partial g_{00}}{\partial r} &= -\frac{2\epsilon}{r}, \\[0.5em]
+\Gamma^r_{00} &= -\frac{1}{2} (1 - 2\epsilon) \cdot \left(-\frac{2\epsilon}{r}\right) \notag \\
+&\approx \frac{\epsilon}{r}. \\[0.5em]
+\frac{\partial g_{rr}}{\partial r} &= -\frac{2\epsilon}{r}, \\[0.5em]
+\Gamma^r_{rr} &= \frac{1}{2} (1 - 2\epsilon) \cdot \left(-\frac{2\epsilon}{r} \right) \notag \\
+&\approx -\frac{\epsilon}{r}.
+\end{align*}
+The term \( \Gamma^r_{rr} (v^r)^2 \) appears in the geodesic equation due to spatial motion; it vanishes for stationary observers.
+
+\textbf{Relative Contribution of \( g_{rr} \).}  
+For a test particle with radial velocity \( v^r \), the spatial contribution to radial acceleration is: \( a^{(g_{rr})}_r = -\Gamma^r_{rr} (v^r)^2 \).
+Estimating \( (v^r)^2 \sim 2\epsilon c^2 \), we obtain: \( a^{(g_{rr})}_r \sim \epsilon/r \cdot (2\epsilon c^2) = 2\epsilon^2 c^2/r \).
+By contrast, the time curvature contribution is \( a^{(g_{00})}_r \sim c^2 \epsilon/r \). Taking the ratio: \( a^{(g_{rr})}_r/a^{(g_{00})}_r = 2\epsilon \).
+For Earth, this evaluates to: \( 2\epsilon_{\text{Earth}} = 2GM/(c^2 R) \approx 1.4 \times 10^{-9} \).
+Thus, the influence of spatial curvature on low-velocity trajectories is nearly a billion times smaller than that of temporal curvature.
+
+\techref
+{\footnotesize
+Carroll, S. (2004). \textit{Spacetime and Geometry: An Introduction to General Relativity}. \\
+Peacock, J. (2021). PHYS11010: General Relativity. \\
+Hobson, M. P., Efstathiou, G., \& Lasenby, A. N. (2006). \textit{General Relativity: An Introduction for Physicists.}
+}
+\end{technical}    
